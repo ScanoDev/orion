@@ -1,4 +1,9 @@
-data/
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 .env
 __pycache__/
 .ipynb_checkpoints/
+.venv/
+vectorstore/
