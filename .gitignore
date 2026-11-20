@@ -1,5 +1,17 @@
-data/
+# Datos: no van a Git (se bajan de S3).
+# Solo se suben los .gitkeep para que existan las carpetas.
+data/**
+!data/**/
+!data/**/.gitkeep
+
+# Índices vectoriales
+vectorstore/
+chroma/
+
+# Secretos
 .env
+
+# Python
+.venv/
 __pycache__/
 .ipynb_checkpoints/
-useful_information.md
