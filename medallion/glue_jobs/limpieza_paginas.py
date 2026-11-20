@@ -16,27 +16,39 @@ Reglas por página:
     R4: después de limpiar quedan menos de MIN_CARACTERES caracteres.
     R5: el texto limpio es idéntico al de otra página (se conserva la de url menor).
 Reglas por línea (se quitan del texto, la página sigue):
-    R2: la línea aparece en al menos UMBRAL_PAGINAS de las páginas (menús, pies).
-        Los títulos del markdown (#) no se quitan por esta regla.
-    R3: la línea no tiene letras ni números después de limpiar el markdown.
+    R2: la línea se repite en muchas páginas (menús, pies, widgets de noticias).
+        Se conserva en una sola página (la de pagina_id menor) y se quita de
+        las demás, para no perder datos útiles como los teléfonos de las sedes.
+        Las líneas cortas (etiquetas y valores como "### Modalidad" o
+        "Presencial") tienen un umbral más alto, para no borrar los datos
+        de las fichas de eventos y programas.
+    R3: la línea no tiene letras ni números después de limpiar el markdown,
+        o es solo un número o un código de color (#7b9180).
+
+Versión 3: umbrales calibrados con las consultas de
+medallion/athena/01_validar_plata.sql (sobre la versión 1) y
+medallion/athena/02_validar_plata_v2.sql (sobre la versión 2).
 """
 from pyspark.sql import functions as F
 from pyspark.sql import Window
 
 MOTIVO_R1 = "R1: página con error HTTP o sin contenido"
 MOTIVO_R2 = "R2: línea repetida (menú o pie de página)"
-MOTIVO_R3 = "R3: línea sin contenido después de limpiar"
+MOTIVO_R3 = "R3: línea sin contenido o solo un código"
 MOTIVO_R4 = "R4: página con muy poco texto"
 MOTIVO_R5 = "R5: página duplicada"
 
-UMBRAL_PAGINAS = 0.5   # mismo criterio del taller: aparece en la mitad o más de las páginas
-MIN_CARACTERES = 200   # menos que esto no alcanza para responder nada
+UMBRAL_PAGINAS = 0.033  # unas 100 de 3.030 páginas: todo lo que se repite tanto es plantilla
+UMBRAL_CORTAS = 0.068   # unas 206 de 3.030: por encima de "Presencial" (200) y por debajo de los menús (212 o más)
+MAX_PALABRAS_CORTA = 5  # hasta 5 palabras cuenta como línea corta (etiqueta o valor)
+MIN_CARACTERES = 200    # menos que esto no alcanza para responder nada
 
 # Expresiones del markdown de Firecrawl
 RE_IMAGEN = r"!\[[^\]]*\]\([^)]*\)"            # ![alt](url): se quita
 RE_ENLACE = r"\[([^\]]*)\]\([^)]*\)"           # [texto](url): queda solo el texto
 RE_URL = r"https?://\S+"                       # url suelta: se quita
 RE_CONTENIDO = r"[\p{L}\p{N}]"                 # al menos una letra o número
+RE_SOLO_CODIGO = r"^(\d+|#[0-9a-fA-F]{3,8})$"   # "1311" o "#7b9180": basura de widgets
 
 
 ESQUEMA_RAW = (
@@ -93,13 +105,16 @@ def limpiar_paginas(df):
     )
 
     # R2: líneas que se repiten en muchas páginas
-    frecuencia = lineas.groupBy("linea_limpia").agg(F.countDistinct("pagina_id").alias("paginas_con_linea"))
+    frecuencia = lineas.groupBy("linea_limpia").agg(
+        F.countDistinct("pagina_id").alias("paginas_con_linea"),
+        F.min("pagina_id").alias("pagina_que_la_conserva"),
+    )
     lineas = lineas.join(frecuencia, "linea_limpia", "left")
-    # Los títulos (#) no cuentan para R2: "## Costos" se repite en muchas páginas
-    # de programas, pero es estructura del contenido, no menú.
-    es_titulo = F.col("linea_limpia").startswith("#")
-    es_r2 = (F.col("paginas_con_linea") >= F.lit(UMBRAL_PAGINAS * n_validas)) & ~es_titulo
-    es_r3 = ~F.col("linea_limpia").rlike(RE_CONTENIDO)
+    n_palabras = F.size(F.split(F.trim(F.regexp_replace("linea_limpia", r"[#*_\\]", "")), r"\s+"))
+    es_corta = n_palabras <= MAX_PALABRAS_CORTA
+    umbral = F.when(es_corta, F.lit(UMBRAL_CORTAS * n_validas)).otherwise(F.lit(UMBRAL_PAGINAS * n_validas))
+    es_r2 = (F.col("paginas_con_linea") >= umbral) & (F.col("pagina_id") != F.col("pagina_que_la_conserva"))
+    es_r3 = ~F.col("linea_limpia").rlike(RE_CONTENIDO) | F.col("linea_limpia").rlike(RE_SOLO_CODIGO)
     lineas = lineas.withColumn(
         "motivo_linea",
         F.when(es_r2, F.lit(MOTIVO_R2)).when(es_r3, F.lit(MOTIVO_R3)),
@@ -160,3 +175,6 @@ def limpiar_paginas(df):
         + sorted(conteo_lineas.items())
     )
     return documentos, paginas_rechazadas, conteos
+
+
+#aws s3 cp medallion\glue_jobs\limpieza_paginas.py s3://orion-eafit-2026/codigo/limpieza_paginas.py
