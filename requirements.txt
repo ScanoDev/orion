@@ -1,2 +1,12 @@
 boto3
 python-dotenv
+pandas
+pyarrow
+langchain-core>=1.0
+langchain-aws>=1.0
+langchain-chroma
+langchain-text-splitters
+langsmith
+rank_bm25
+streamlit
+snowballstemmer
