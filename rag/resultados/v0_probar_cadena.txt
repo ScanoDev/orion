@@ -1,0 +1,67 @@
+PS C:\Users\sebas\SEBAS\EAFIT\ORION> (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\sebas\SEBAS\EAFIT\ORION\.venv\Scripts\Activate.ps1)                                            python rag/probar_cadena.pyers\sebas\SEBAS\EAFIT\ORION> 
+================================================================================
+PREGUNTA: ¿Qué necesito para inscribirme a un pregrado?
+RESPUESTA (9.6 s):
+Para inscribirte a un pregrado en la Universidad EAFIT, necesitarás seguir los siguientes pasos y documentos generales [4]:
+
+### Pasos para inscribirte a un pregrado:
+
+1. **Ingresa a Epik**: Accede al sistema Epik de la Universidad EAFIT.
+2. **Crea una cuenta o inicia sesión**: Si ya tienes una cuenta, inicia sesión; de lo contrario, crea una nueva.
+3. **Selecciona el rol “Solicitante”**: Elige la opción “Inscripción Pregrado y Posgrado”.
+4. **Diligencia el formulario**: Completa toda la información solicitada en el formulario, que incluye datos personales, académicos, familiares y documentos.
+5. **Envía la solicitud**: Una vez que hayas llenado el formulario, envía tu solicitud de inscripción.
+6. **Realiza el pago**: Puedes hacer el pago en línea o descargar la liquidación para pagar en un banco aliado.
+
+### Documentos necesarios:
+
+Los documentos específicos pueden variar según el programa, pero generalmente incluyen [4]:
+
+- **Formulario de inscripción completado**.
+- **Pago de la matrícula o comprobante de pago**.
+- **Documentos académicos**: Certificados y trascripciones de notas de estudios previos.
+- **Fotografía reciente**.
+- **Documentos de identidad**: Copia de tu cédula o documento de identidad.
+- **Otros documentos**: Dependiendo del programa, pueden solicitarse adicionales como carta de motivación, recomendaciones, entre otros.
+
+Para más detalles y documentos específicos de tu programa, te recomiendo visitar la página oficial de la Universidad EAFIT o contactar a la Oficina de Admisiones y Registro.
+FUENTES:
+  [1] institucional    Centro de ayuda | https://www.eafit.edu.co/en/centro-de-ayuda
+  [2] institucional    Preguntas Frecuentes | https://www.eafit.edu.co/Preguntas-Frecuentes
+  [3] institucional    Centro de ayuda | https://www.eafit.edu.co/en/centro-de-ayuda
+  [4] institucional    Preguntas Frecuentes | https://www.eafit.edu.co/Preguntas-Frecuentes
+  [5] institucional    Preguntas Frecuentes | https://www.eafit.edu.co/Preguntas-Frecuentes
+================================================================================
+PREGUNTA: ¿Qué becas hay para estudiantes de pregrado?
+RESPUESTA (1.5 s):
+La Universidad EAFIT ofrece varias becas para estudiantes de pregrado. Algunas de las becas disponibles son:\n\n- Beca Talento EAFIT (pregrado)\n- Beca de Acceso Nutresa - EAFIT\n- ANDI – EAFIT\n- Deportistas Alto Rendimiento\n- VER + BECA TECH - EAFIT\n- Fundación Educación Suiza - EAFIT\n- Vélez Reyes+ Chocó\n\nPara más información sobre los requisitos y cómo aplicar, te recomiendo visitar la página web de la Universidad EAFIT o contactar a la Oficina de Admisiones y Registro [1][4][5].
+FUENTES:
+  [1] becas_y_tramites Becas Talento Pregrado | https://www.eafit.edu.co/becas-y-financiacion/becas-talento-eafit
+  [2] institucional    Centro de ayuda | https://www.eafit.edu.co/en/centro-de-ayuda
+  [3] bienestar        Ruta del becado | https://www.eafit.edu.co/bienestar-universitario/desarrollo-estudiantil/ruta-del-becado
+  [4] becas_y_tramites Becas Talento Pregrado | https://www.eafit.edu.co/becas-y-financiacion/becas-talento-eafit
+  [5] becas_y_tramites Becas Talento Pregrado | https://www.eafit.edu.co/becas-y-financiacion/becas-talento-eafit
+================================================================================
+PREGUNTA: ¿Cuál es el número de celular del rector?
+RESPUESTA (1.5 s):
+Me temo que no se proporciona el número de celular del rector en las fuentes disponibles. Para obtener esta información, te recomiendo consultar directamente el sitio web oficial de la Universidad EAFIT en https://www.eafit.edu.co o ponerte en contacto con la Oficina de Admisiones y Registro. 
+
+Las fuentes proporcionadas solo incluyen números de celular para los periodistas de contacto de eventos específicos, como Lacea Lames 2016 [3][4].
+FUENTES:
+  [1] investigacion    Lenguaje y números | https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/universidad-ninos/red-preguntas/lenguaje-y-numeros
+  [2] bienestar        Desarrollo Estudiantil | https://www.eafit.edu.co/bienestar-universitario/desarrollo-estudiantil
+  [3] noticias         Así estuvo la primera sesión de ponencias de Lacea Lame | https://www.eafit.edu.co/noticias/nuestro-impacto/asi-estuvo-la-primera-sesion-de-ponencias-de-lacea-lames-2016
+  [4] noticias         Lacea Lames 2016 refrescó el pensamiento económico | https://www.eafit.edu.co/noticias/nuestro-impacto/lacea-lames-2016-refresco-el-pensamiento-economico
+  [5] otros            Clone of Ongoing | https://www.eafit.edu.co/node/58771
+================================================================================
+PREGUNTA: ¿Quién ganó el mundial de fútbol de 2022?
+RESPUESTA (1.4 s):
+Lamento informarte que no se encontró información en los materiales proporcionados sobre quién ganó el Mundial de Fútbol de 2022. Los datos disponibles en el contexto se centran en Carlos Gamboa, egresado de la Universidad EAFIT, quien cubrirá la Copa Mundial de Fútbol 2026, y en actividades culturales y académicas de la Universidad EAFIT relacionadas con el fútbol y otros eventos [1][2][3][4].
+
+Para obtener información sobre el ganador del Mundial de Fútbol de 2022, te recomiendo consultar fuentes deportivas especializadas o sitios web oficiales de la FIFA.
+FUENTES:
+  [1] noticias         “Ojalá todo fuera como EAFIT”: Carlos Gamboa el Eafiten | https://www.eafit.edu.co/noticias/especiales/ojala-todo-fuera-como-eafit-carlos-gamboa-el-eafitense-que-cubre-la-copa
+  [2] otros            Cultura | https://www.eafit.edu.co/vida-cultural
+  [3] otros            Extensión Cultural | https://www.eafit.edu.co/extension-cultural
+  [4] noticias         “Ojalá todo fuera como EAFIT”: Carlos Gamboa el Eafiten | https://www.eafit.edu.co/noticias/especiales/ojala-todo-fuera-como-eafit-carlos-gamboa-el-eafitense-que-cubre-la-copa
+  [5] institucional    Excelencia y reconocimiento | https://www.eafit.edu.co/informes-de-gestion-y-sostenibilidad/informe-sostenibilidad-2023/excelencia-y-reconocimiento
