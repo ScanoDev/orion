@@ -19,11 +19,11 @@ sys.path.insert(0, "rag")
 from fragmentar import SOLAPE_CHUNK, TAMANO_CHUNK  # noqa: E402
 
 BUCKET = "orion-eafit-2026"
-PREFIJO_S3 = "indices/v1/"   # cuando indexes todo oro, cámbialo a "indices/v1/"
-CARPETA_CHROMA = "vectorstore/orion_v1"
-COLECCION = "orion_v1"
+PREFIJO_S3 = "indices/v2/"   # cuando indexes todo oro, cámbialo a "indices/v1/"
+CARPETA_CHROMA = "vectorstore/orion_v2"
+COLECCION = "orion_v2"
 MODELO_EMBEDDINGS = "amazon.titan-embed-text-v2:0"
-VERSION_ORO = "oro_v1"
+VERSION_ORO = "oro_v2"
 SALIDA = "data/processed"
 
 
@@ -45,7 +45,7 @@ def main():
     df.to_parquet(ruta_parquet, index=False)
 
     # 2. Chroma comprimida
-    ruta_zip = shutil.make_archive(f"{SALIDA}/chroma_orion_v1", "zip", CARPETA_CHROMA)
+    ruta_zip = shutil.make_archive(f"{SALIDA}/chroma_orion_v2", "zip", CARPETA_CHROMA)
 
     # 3. manifiesto.json
     manifiesto = {
@@ -68,7 +68,7 @@ def main():
 
     # 4. Subir a S3
     s3 = boto3.client("s3")
-    for ruta, nombre in [(ruta_zip, "chroma_orion_v1.zip"),
+    for ruta, nombre in [(ruta_zip, "chroma_orion_v2.zip"),
                          (ruta_parquet, "chunks.parquet"),
                          (ruta_manifiesto, "manifiesto.json")]:
         s3.upload_file(ruta, BUCKET, PREFIJO_S3 + nombre)

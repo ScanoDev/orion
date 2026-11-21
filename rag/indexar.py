@@ -18,8 +18,8 @@ from fragmentar import fragmentar_documentos  # noqa: E402
 
 REGION = "us-east-1"
 MODELO_EMBEDDINGS = "amazon.titan-embed-text-v2:0"
-COLECCION = "orion_v1"
-CARPETA_CHROMA = "vectorstore/orion_v1"
+COLECCION = "orion_v2"
+CARPETA_CHROMA = "vectorstore/orion_v2"
 N_PAGINAS = None       # None = todas las páginas
 TAMANO_LOTE = 50
 MAX_REINTENTOS = 6
