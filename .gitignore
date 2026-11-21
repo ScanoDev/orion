@@ -3,6 +3,7 @@
 data/**
 !data/**/
 !data/**/.gitkeep
+rag/resultados/feedback.jsonl
 
 # Índices vectoriales
 vectorstore/
