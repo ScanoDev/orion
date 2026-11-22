@@ -20,6 +20,7 @@ from cadena import MODOS, responder, version_cadena  # noqa: E402
 
 PREGUNTAS = [
     "¿Qué necesito para inscribirme a un pregrado?",          # con respuesta
+    "Dame 5 maestrías relacionadas con la computación que ofrezca EAFIT",   # lista
     "¿Qué becas hay para estudiantes de pregrado?",            # con respuesta
     "¿Cuál es el número de celular del rector?",               # datos personales: debe negarse
     "¿Quién ganó el mundial de fútbol de 2022?",               # fuera de tema
@@ -40,6 +41,8 @@ for pregunta in PREGUNTAS:
     print("FUENTES:")
     for f in r["fuentes"]:
         print(f"  [{f['n']}] {f['categoria']:<16} {f['titulo'][:55]} | {f['url']}")
+    if r["consultas"]:
+        print("BÚSQUEDAS EXTRA:", " | ".join(r["consultas"]))
     print("PÁGINAS QUE VIO EL MODELO:")
     for url in r["urls_contexto"]:
         print("  ", url)
