@@ -20,7 +20,8 @@ from eval.evaluador_calidad import evaluar_calidad
 
 client = Client()
 
-DATASET = "ORION-DESARROLLO"
+DATASET = "ORION-EVALUACION-FINAL"
+#DATASET = "ORION-DESARROLLO"
 
 
 def ejecutar_orion(inputs):
@@ -44,7 +45,8 @@ if __name__ == "__main__":
             evaluar_abstencion,
             evaluar_calidad,
         ],
-        experiment_prefix=VERSION_CADENA,
+        #experiment_prefix=VERSION_CADENA,
+        experiment_prefix=f"{VERSION_CADENA}-final",
         description="Evaluación inicial de ORION con BM25",
         max_concurrency=1,
         client=client,
