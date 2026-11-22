@@ -1,0 +1,631 @@
+﻿inputs.pregunta,outputs.respuesta,outputs.fuentes,outputs.urls_contexto,outputs.chunk_ids,outputs.contexto,outputs.consultas,error,reference.tipo,reference.urls_esperadas,feedback.recuperacion,feedback.abstencion,feedback.contesto,feedback.fidelidad,execution_time,example_id,id
+en la cancha de pasto artificial de la u que se puede jugar?,"En la Universidad EAFIT puedes jugar fútbol 8 en las canchas sintéticas. Hay tres canchas disponibles para alquilar en la recepción del Gimnasio Vivo [2]. 
+
+Las canchas están diseñadas específicamente para este deporte, permitiéndote disfrutar de partidos en un campo de calidad profesional.","[{'n': 2, 'titulo': 'Canchas sintéticas', 'url': 'https://www.eafit.edu.co/servicios/gimnasio-vivo/alquiler-cancha-sintetica', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/noticias/todos-los-dias-venimos-encontrarnos-generar-conexiones-hacer-que-pase-algo', 'https://www.eafit.edu.co/servicios/gimnasio-vivo/alquiler-cancha-sintetica', 'https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/universidad-ninos/red-preguntas/universo-materia-y-energia/como-se-sostienen-los-satelites', 'https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura', 'https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas']","['72ff1780296a740df981537c100d001e_007', 'a9498231a3ff47f7e3c0f33c4b3ae812_000', 'e8294c4cf6430bc758a00c3e892b2345_004', 'ae60f89bf2a164cf4070294aea2a89d0_001', '0a738e48e2424a0981a699059331db4a_000']","[1] “Todos los días venimos a encontrarnos, a generar conexiones, a hacer que pase algo” (https://www.eafit.edu.co/noticias/todos-los-dias-venimos-encontrarnos-generar-conexiones-hacer-que-pase-algo)
+“Todos los días venimos a encontrarnos, a generar conexiones, a hacer que pase algo”
+
+Todo esto nos llena de satisfacción y nos motiva a mantener el compromiso y los esfuerzos, especialmente ahora que, de manera paralela hemos estado trabajando en la estructuración de una unidad de aceleración y conexión con las plataformas de financiación, para que la U también pueda jugar en las canchas del _venture capital_, los fondos de inversión, y la inversión en sus propias _startups_. Es una línea en la que estamos concentrando todos nuestros esfuerzos”.
+###### ¿Qué significa emprender para Tomás Ríos y su equipo de trabajo?
+“Para nosotros el emprendimiento no solamente se refiere a las personas que crean empresa, sino también a las personas que se adueñan de proyectos y procesos, porque en la actualidad necesitamos más líderes que, aparte del trabajo para el que son contratados, se apropien de otras dinámicas y empiecen a generar el impacto y los cambios que el mundo necesita. Eso es lo que queremos potenciar desde On.going”.
+
+[2] Canchas sintéticas (https://www.eafit.edu.co/servicios/gimnasio-vivo/alquiler-cancha-sintetica)
+Canchas sintéticas
+
+- Servicios
+- Gimnasio Vivo
+- Canchas Sintéticas
+La Universidad EAFIT cuenta con tres canchas sintéticas para futbol 8, las cuales pueden ser alquiladas en la recepción del Gimnasio Vivo.
+###### **Reservas**
+###### **Reglamento**
+Conoce el reglamento
+
+[3] ¿Cómo se sostienen los satélites? (https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/universidad-ninos/red-preguntas/universo-materia-y-energia/como-se-sostienen-los-satelites)
+¿Cómo se sostienen los satélites?
+
+¡Ahora a jugar! Simula qué pasaría si cambias las condiciones de masa, velocidad y movimiento entre la Tierra y un satélite artificial.
+Gravedad y Órbitas
+
+[4] Infraestructuras (https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura)
+Infraestructuras > Infraestructura > Canchas
+
+Ver canchas
+
+[5] Canchas (https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas)
+Canchas
+
+Descubre las canchas de fútbol, ultimate y rugby de la Universidad EAFIT. Reserva tu espacio y disfruta de nuestras instalaciones deportivas de alta calidad.
+- Bienestar Universitario
+- Deportes
+- Infraestructuras
+- Canchas",[],,con_respuesta,['https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas'],1,,1,1,6.662253,116e3e3f-aeec-4b45-86e8-efa0ed75d81f,01a204d1-97e4-7413-aa59-115d5e1653b4
+cuanto mide el campo de futbol de pasto natural de eafit,El campo de fútbol de grama natural de EAFIT mide **90 metros de largo por 45 metros de ancho**[4].,"[{'n': 4, 'titulo': 'Canchas', 'url': 'https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas', 'categoria': 'bienestar'}]","['https://www.eafit.edu.co/vida-cultural', 'https://www.eafit.edu.co/bienestar-universitario/deportes/horarios-entrenamiento', 'https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/placas', 'https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas']","['ad1db823a7dc78f102866bac5a51ea4d_011', '459e63fdb3b7816bbaf0da6349fb05fe_001', '41db22d338bcce11fe720d3e204d0e94_002', '41db22d338bcce11fe720d3e204d0e94_000', '0a738e48e2424a0981a699059331db4a_001']","[1] Cultura (https://www.eafit.edu.co/vida-cultural)
+Cultura > Vida cultural > En los medios
+
+Anterior cardSiguiente card
+""Con su violín del siglo XVIII, Mimi Jung dará un concierto en Eafit""
+Lee la nota completa
+""Campo de juego: una exposición para pensar el fútbol más allá del deporte""
+Lee la nota completa
+""No solo de pop vive el fútbol: en Eafit unirán a Chopin con el mundial""
+Lee la nota completa
+'Campo en juego': La exposición que une fútbol, arte y barrio en la Universidad EAFIT \| EL TIEMPO
+""Fútbol y Chopin: cuando la emoción encuentra un mismo lenguaje""
+Lee la nota completa
+""Auditorio Fundadores de Eafit, la sala cultural más grande del sur del Valle de Aburrá""
+Lee la nota completa
+Nuestro equipo
+
+[2] Horarios de entrenamiento (https://www.eafit.edu.co/bienestar-universitario/deportes/horarios-entrenamiento)
+Horarios de entrenamiento > Conoce el proceso de convocatoria para quienes desean hacer parte de nuestros equipos competitivos
+
+Aplica aquí
+- Fortalecimiento muscular (Fuerza)
+- Running (Resistencia aeróbica)
+- Ajedrez mixto
+- Atletismo estudiantes mixto
+- Atletismo empleados mixto
+- Baloncesto estudiantes masculino
+- Baloncesto graduados masculino
+- Balonmano estudiantes femenino
+- Balonmano estudiantes masculino
+- Disco volador femenino
+- Disco volador masculino
+- Fútbol estudiantes femenino
+- Fútbol estudiantes masculino
+- Fútbol graduados masculino
+- Fútbol empleados
+- Fútbol sala estudiantes masculino
+- Fútbol sala graduados
+- Karate-Do estudiantes mixto
+- Natación mixto
+- Taekwondo mixto
+- Tenis de campo estudiantes femenino
+- Tenis de campo estudiantes masculino
+- Tenis de campo empleados mixto
+- Tenis de mesa estudiantes mixto
+- Voleibol estudiantes femenino
+- Voleibol estudiantes masculino
+Fortalecimiento muscular (Fuerza)
+**Entrenador:** Jeison Asprilla
+**Horarios:**
+Lunes y viernes - 12:00 m.
+Miércoles 2:00 p.m.
+**Gimnasio al aire libre**
+Running (Resistencia aeróbica)
+**Entrenador:** Milena Restrepo
+
+[3] Placas (https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/placas)
+Placas > Placa Polideportiva 1
+
+En este escenario se practica fútbol sala, balonmano y tenis de campo.
+
+Placas
+
+Descubre las placas deportivas de EAFIT: espacios para voleibol, baloncesto, fútbol sala, balonmano y tenis de campo, disponibles para la comunidad universitaria.
+- Bienestar Universitario
+- Deportes
+- Infraestructuras
+- Placas
+
+[4] Canchas (https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas)
+Canchas > Cancha de fútbol grama
+
+Medidas: 90 metros de largo por 45 metros de ancho.
+Se practica futbol, ultimate y rugby.",[],,con_respuesta,['https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas'],1,,1,1,1.228768,1393d2cd-5e93-4309-9ba1-5c35d607bd88,01a204d1-b1ea-7a5b-a152-ed996866dcb0
+"se me vence el libro que saque, como hago para tenerlo unos dias mas","Para renovar un préstamo y mantener el material unos días más, puedes hacerlo siguiendo estos pasos:
+
+1. **En línea**: Inicia sesión en tu cuenta ""Mi biblioteca"" en FARO, selecciona la opción ""Préstamos"" y haz clic en renovar [3].
+2. **Presencial o telefónico**: Visita la sección de préstamos en el segundo piso de la Biblioteca o llama al teléfono 6042619500, opción 3, extensiones 9255, 9765, 9263, 9264 en Medellín [3]. 
+
+Asegúrate de que el material no esté reservado por otro usuario y que no tengas bloqueos o sanciones [1][3].","[{'n': 1, 'titulo': 'Préstamo interbibliotecario', 'url': 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/prestamo-interbibliotecario', 'categoria': 'cultura'}, {'n': 3, 'titulo': 'Prestamo', 'url': 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/prestamo', 'categoria': 'cultura'}]","['https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/prestamo-interbibliotecario', 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/preguntas-frecuentes/prestamo-renovacion-y-reserva', 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/prestamo']","['b4c178c0aa9a3bdc8c6348d764b31722_000', 'a63fc60105e8008d3fed7659660f582f_001', '4e6234744d0b7ec432d52db8edf9f55c_000', 'a63fc60105e8008d3fed7659660f582f_005', '4e6234744d0b7ec432d52db8edf9f55c_007']","[1] Préstamo interbibliotecario (https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/prestamo-interbibliotecario)
+Préstamo interbibliotecario
+
+- Centro Cultural Biblioteca Luis Echavarría Villegas
+- Préstamo Interbibliotecario
+La Biblioteca ofrece a los estudiantes, profesores y empleados de EAFIT la posibilidad de prestar libros y materiales que no se encuentran en sus colecciones mediante convenios de préstamo interbibliotecario. Adicionalmente, los usuarios de las bibliotecas con las cuales EAFIT tiene convenios de préstamo interbibliotecario pueden retirar material en préstamo mediante una carta o con el carné que los acredita como estudiante o empleado de las universidades pertenecientes al G8 Bibliotecas y Alianza 4U.
+**Colecciones:**
+General
+Literatura
+Revistas
+Audiovisuales/CD´s
+Tesis y proyectos de grado
+**Días de préstamo **
+Son 10 días hábiles
+Se prestan hasta 5 materiales
+**Renovación de material**
+Toda vez que el convenio este vigente
+El material no se haya vencido
+El usuario no presente bloqueos o sanciones
+Los materiales a renovar no sean reservados por otro usuario 
+**Requisitos**
+
+[2] Préstamo, renovación y reserva (https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/preguntas-frecuentes/prestamo-renovacion-y-reserva)
+Préstamo, renovación y reserva
+
+- ¿Qué debo hacer cuando se me daña o pierde un material que tengo en préstamo? 
+- ¿Dónde puedo realizar la reserva de un espacio para estudio?
+- ¿Quiénes pueden acceder a la reserva de espacios de la Sala de Aprendizaje Activo? 
+- ¿Cómo puedo realizar el préstamo de un libro electrónico?
+- ¿Qué hacer si perdí un libro de la Biblioteca ?
+- ¿Puedo renovar un préstamo?
+- ¿Quiénes pueden realizar un préstamo de material bibliográfico?
+- ¿Puedo encontrar en la Biblioteca apoyo para investigaciones o trabajos de grado?
+- ¿Qué es un préstamo interbibliotecario?
+- ¿Puedo solicitar un préstamo interbibliotecario en cualquier biblioteca de la ciudad?
+- ¿Cuáles son los requisitos para prestar material en otra biblioteca de la ciudad?
+- ¿Qué debo hacer si necesito prestar material de Bibliotecas de EAFIT pero en otras ciudades del país?
+- ¿Qué debo hacer si necesito prestar material de Bibliotecas de EAFIT pero en otras ciudades del país?
+
+Préstamo, renovación y reserva
+
+Los estudiantes de otras instituciones con las que se tienen convenios, deben presentar en el área de Circulación préstamo de la Biblioteca de EAFIT, el carné y la carta de préstamo interbibliotecario expedida por la biblioteca de la universidad a la que pertenece.
+**Para mayor información acerca de los distintos convenios visite:** Convenios de préstamo interbibliotecario vigentes.xlsx
+**Estudiantes del CEC:** presentar en el área de Circulación y préstamo el comprobante de matrícula y el documento de identidad.
+**Empleados del Instituto del plástico y ARGOS:** presentar su documento de identidad en el área de Circulación y préstamo.
+¿Cómo puedo saber qué material tengo prestado, cuándo se vence y si tengo multas?
+Ingresar al sitio de la Biblioteca y seleccionar el submenú Mi cuenta.
+Para ampliar información consulte: Guía para renovar, reservar y consultar cuenta de usuario en SINBAD
+¿Qué pasa si no devuelvo el material a tiempo?
+
+[3] Prestamo (https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/prestamo)
+Prestamo > Préstamo
+
+Conoce en este espacio los beneficios, las condiciones del servicio y disfruta del acceso a nuestras colecciones bibliográficas.
+- Centro Cultural Biblioteca Luis Echavarría Villegas
+- Servicios
+- Préstamo
+###### A tu alcance:
+Te prestamos material según lo establecido en el protocolo de servicios para cada categoría de usuarios. También puedes consultar nuestra guía de préstamo
+Encuentra aquí acceso directo a la información que necesitas:
+Desplegar menú
+- Renovación / Devolución
+- Reseva de material / Pago de tarifas
+- Préstamo Interbibliotecario
+- Préstamo a externos
+Renovación de material
+Desde ""Mi biblioteca"" en FARO
+Inicia sesión en tu cuenta ""Mi biblioteca""
+Selecciona la opción ""Préstamos"" y darle clic en renovar
+Renovar aquí 
+Presencial o telefónica
+Visítanos en la sección de préstamos segundo piso de la Biblioteca o llama al teléfono 6042619500, opción 3, extensiones 9255, 9765, 9263, 9264 en Medellín.
+Para otras ciudades, contáctanos en:
+
+Prestamo > Préstamo
+
+El usuario no presente bloqueos o sanciones
+Los materiales a renovar no sean reservados por otro usuario 
+**Requisitos**
+Para prestar en bibliotecas de Medellín presente el carné de la Universidad EAFIT en la biblioteca de las universidades que pertenecen al convenio G8 Bibliotecas. 
+Solicite la carta de préstamo interbibliotecario en la sección de Préstamos de la Biblioteca (piso 2, ala occidental).
+Para prestar en bibliotecas de otras ciudades del país solicite el servicio por correo electrónico a: Julián Naranjo Correo: referencia@eafit.edu.co .
+En este correo incluya el título del documento, autor y biblioteca en la que encontró el material.
+Los usuarios nuevos, y quienes desean actualizar sus datos, deben registrarse aquí.","['prórroga préstamo biblioteca', 'renovar préstamo biblioteca', 'plazo préstamo biblioteca']",,con_respuesta,['https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/prestamo'],1,,1,1,2.025575,276c1203-50a4-4350-9d56-d874ac91c006,01a204d1-b6b7-740e-b1b4-02a21b55f347
+"Ya me admitieron, ¿cómo aparto mi puesto para empezar a estudiar?","Para apartar tu puesto tras ser admitido en la Universidad EAFIT, debes realizar el proceso de matrícula. A continuación te explico cómo hacerlo:
+
+- **Paso 1:** Ingresa tus datos y confirma tu lugar como estudiante activo en el sistema de la universidad.
+- **Paso 2:** Realiza el pago de la matrícula para formalizar tu inscripción en el programa de tu elección [2].
+
+Recuerda revisar las fechas límite para realizar estos pasos y asegurarte de cumplir con todos los requisitos establecidos por la Oficina de Admisiones y Registro de EAFIT. Si necesitas más detalles, visita https://www.eafit.edu.co.","[{'n': 2, 'titulo': 'Centro de ayuda', 'url': 'https://www.eafit.edu.co/en/centro-de-ayuda', 'categoria': 'institucional'}]","['https://www.eafit.edu.co/calendario-academico', 'https://www.eafit.edu.co/en/centro-de-ayuda', 'https://www.eafit.edu.co/reserva-espacios', 'https://www.eafit.edu.co/eafit-en-cifras/glosario-institucional', 'https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/descubre-y-crea/edicion-180/recorre-la-historia-del-planeta-tierra-en-un-paseo-por-eafit']","['e0d5cbae8ae987eae8f8e67d0182f0fa_002', '25300eed05f5e724c0272a7abc88366e_041', '552cadb583b30c5e6f0c89b92bc97446_001', '1353fac56eada4f2bc229b474943a26e_016', '891a65de2ce4df923be393ec774d1fb1_006']","[1] Calendario académico (https://www.eafit.edu.co/calendario-academico)
+Calendario académico > Eventos académicos
+
+Dirigido a \- Cualquiera -Pregrado-Comunidad universitaria-Diferentes áreas administrativas-Estudiantes activos con matrícula pagada-Estudiantes activos de pregrado-Estudiantes activos o admitidos para el semestre en curso (reingresos, reintegros, transferencias, convenios, doble programa y asistentes)-Estudiantes activos o admitidos para el semestre en curso (reingresos, reintegros, transferencias, doble programa)-Estudiantes activos y estudiantes admitidos en calidad de transferencia interna y doble programa-Estudiantes activos, que, por causa de fuerza mayor o caso fortuito, debidamente comprobada, no presentaron las evaluaciones finales en las fechas programadas-Estudiantes aptos para grado-Estudiantes con liquidación de matrícula generada-Estudiantes de pregrado-Estudiantes de primer semestre-Estudiantes de reintegros, transferencias, doble programa admitidos para el semestre en curso-Estudiantes que adicionaron asignaturas-Estudiantes que cursan asignaturas con evaluación final
+
+[2] Centro de ayuda (https://www.eafit.edu.co/en/centro-de-ayuda)
+Centro de ayuda > ¿Tienes dudas? Consulta nuestras preguntas frecuentes
+
+Descuentos por consaguinidad aquí
+¿La universidad tiene descuentos para estudiar cursos y diplomados?
+Conoce los descuentos que puedes aplicar en la Universidad aquí 
+Pregrados
+Pregrados
+###### Pregrados
+- ¿Cómo realizar la solicitud de grados?
+- ¿Cómo me inscribo en la Universidad para un pregrado?
+- ¿Cuáles son las fechas de inscripción para pregrados?
+- ¿Qué pregrados ofrece EAFIT?
+- ¿Qué se necesita tener en cuenta antes del proceso de matrícula?
+- ¿Conoces el procesos de matrícula 2025-1 para los estudiantes de Pregrado?
+- ¿En qué consiste el proceso de registro de materias para estudiantes de pregrado?
+- ¿El proceso de matrícula cambió para los estudiante activos de Pregrado?
+- ¿Cómo debo saber que materias registrar para mi matrícula?
+- ¿Cómo registro mis materias de Pregrado?
+- ¿El registro de materias de los estudiantes de pregrado se hará por citas?
+- ¿Cuál es la fecha para registrar las materias?
+
+[3] Reserva de espacios de aprendizaje (https://www.eafit.edu.co/reserva-espacios)
+Reserva de espacios de aprendizaje > Ten en cuenta las fechas de tus espacios de aprendizaje
+
+La asignación de los espacios de aprendizaje para las asignaturas del semestre de pregrado, finaliza oficialmente el último día de clases (semana 16).
+Por lo tanto, la disponibilidad de estos espacios no se extiende de forma automática a las semanas posteriores. Si requieres hacer uso de un espacio durante la semana de exámenes finales o para la reposición de actividades académicas, es indispensable realizar la solicitud de reserva a través del módulo Epik Reservas.
+Ingresa a Epik
+- ¿Qué son?
+- ¿Quién puede reservar?
+- ¿Cómo se reserva?
+¿Qué son?
+¿Qué son?
+Los **espacios de aprendizaje** son todos los entornos de la Universidad que se encuentran habilitados para realizar actividades académicas, institucionales, culturales o deportivas.
+¿Quién puede reservar?
+¿Quién puede reservar?
+Los **espacios de aprendizaje** están habilitados para profesores, administrativos y estudiantes.
+¿Cómo se reserva?
+¿Cómo se reserva?
+
+[4] Glosario institucional (https://www.eafit.edu.co/eafit-en-cifras/glosario-institucional)
+Glosario institucional > Si necesitas solicitar la edición de alguno de estos términos diligencia el siguiente formulario.
+
+**Asignatura Crítica:** Asignaturas que, debido a su alta tasa de reprobación, repetición y cancelación identificada en las analíticas académicas (según estándares de la carrera/programa), producen un retraso en el avance curricular. Fuente:Definición institucional.ÁreaFuente:Oficina de Permanencia.Responsable de actualización:Desarrollo Humano.Fecha:12/09/2022.
+**Asistente:**Persona que desea cursar algunas asignaturas en los programas de pregrado o posgrado, a título de extensión académica, sin la posibilidad de reconocimiento de los mismos.Fuente:Glosario Admisiones y Registro.ÁreaFuente:Admisiones y Registro.Responsable de actualización:Vicerrectoría de Aprendizaje.Fecha:30/07/2021.
+**Aspirante:**Persona que se inscribe a la universidad pero que aún no ha pagado su inscripción.Fuente:Glosario Admisiones y Registro.ÁreaFuente:Admisiones y Registro.Responsable de actualización:Vicerrectoría de Aprendizaje.Fecha:30/07/2021.
+
+[5] Recorre la historia del planeta Tierra en un paseo por EAFIT (https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/descubre-y-crea/edicion-180/recorre-la-historia-del-planeta-tierra-en-un-paseo-por-eafit)
+Recorre la historia del planeta Tierra en un paseo por EAFIT
+
+Empezamos a imaginar, visualizar, analizar y vincular de forma abstracta lo que nos está contando el planeta mediante fenómenos que, aunque muy lentos a escala humana, son fundamentales en la evolución del planeta: desde el surgimiento de cordilleras hasta el cambio climático.
+Por ejemplo, si realizamos un recorrido a pie, con la interpretación científica de un geólogo y la mediación pedagógica adecuada, empezaremos a reconocer en el paisaje las pistas del tiempo profundo de la Tierra y de su relación con nuestra vida cotidiana.
+De esta manera, una **georuta** es una herramienta para el aprendizaje experiencial, puesto que promueve la exploración, la obtención de datos y el procesamiento de los mismos por parte de los aprendices, y genera espacios para la interacción y la reflexión en torno a lo que ofrece la naturaleza.","['pregrado matricula', 'trámite reserva puesto', 'oficina admisiones']",,con_respuesta,['https://www.eafit.edu.co/Preguntas-Frecuentes'],0,,1,0,2.3653,3476a853-1245-4821-b431-e91d425bc736,01a204d1-bea1-7d9a-ac20-eccb4f843590
+"no tengo plata para pagar el primer semestre, la universidad me puede dar un credito?","EAFIT ofrece líneas de financiación educativa para ayudarte a pagar la matrícula. Puedes acceder a **EAFIT a tu alcance**, que incluye opciones de financiación a corto y largo plazo. Si estás solicitando por primera vez, necesitas tener la liquidación de matrícula. Las personas con becas parciales también pueden acceder, y el pago inicial depende de la línea de financiación elegida [1][4].
+
+Para más detalles, visita https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance.","[{'n': 1, 'titulo': 'EAFIT a tu alcance', 'url': 'https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance', 'categoria': 'becas_y_tramites'}, {'n': 4, 'titulo': 'EAFIT at your reach', 'url': 'https://www.eafit.edu.co/en/becas-y-financiacion/eafit-a-tu-alcance', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance', 'https://www.eafit.edu.co/plan-de-estudio/pregrado-en-ciencias-politicas-2024', 'https://www.eafit.edu.co/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares', 'https://www.eafit.edu.co/en/becas-y-financiacion/eafit-a-tu-alcance']","['23514cfe86c6c284df865fdf87926e22_039', '0bc575d072672e713d0e8488265fb042_001', '1714a3145e5eed457fe68b3dcdb42175_000', '23514cfe86c6c284df865fdf87926e22_000', '05283b6a0af378deb950c9fe095973f4_041']","[1] EAFIT a tu alcance (https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance)
+EAFIT a tu alcance > Directorio de entidades financieras > Preguntas frecuentes EAFIT A TU ALCANCE
+
+¿Se puede financiar mi crédito incluso estando reportado(a)?
+Sí.
+Si tengo una beca con la Universidad u otra entidad, ¿Puedo acceder a EAFIT a tu Alcance?
+Las personas que tengan becas parciales sí pueden acceder a EAFIT a tu alcance. La financiación aplica sobre el valor a pagar de la matrícula, es decir, el porcentaje que no cubre la beca.
+¿Se necesita tener orden de matrícula?
+Si solicitas por primera vez el crédito, debes contar con la liquidación de matrícula generada en el sistema.
+¿El valor inicial a pagar de la matrícula puede ser variable?
+Sí. El valor del pago inicial depende de la línea de financiación que elijas y de si deseas aportar un monto mayor al mínimo requerido.
+Para el caso de la línea de financiación a corto plazo deberás realizar en cada semestre un pago inicial, mínimo del veinte por ciento (20%) del valor a pagar de tu liquidación de matrícula. Si deseas, puedes dar un valor superior al 20% como pago inicial y se financiará el excedente.
+
+EAFIT a tu alcance > Financiación
+
+Queremos facilitar tu permanencia en la Universidad. Conoce nuestras alternativas de financiación.
+- Becas y Financiación
+- EAFIT A Tu Alcance
+- Líneas de financiación educativa y opciones de pago para aspirantes y estudiantes
+- Línea de financiación a corto plazo
+- Línea de financiación a largo plazo
+- Simulador de crédito
+- Proceso de aplicación a financiación
+- Pregrado y posgrado estudiantes nuevos
+- Pregrado y posgrado estudiantes activos
+Líneas de financiación educativa y opciones de pago para aspirantes y estudiantes
+**Presentamos EAFIT a tu alcance**, las líneas de financiación educativas que buscan facilitar el ingreso y la permanencia de los estudiantes con excelentes calidades académicas para que puedan adelantar o continuar su pregrado o posgrado en la Institución.
+
+[2] Pregrado en Ciencias Políticas 2024 (https://www.eafit.edu.co/plan-de-estudio/pregrado-en-ciencias-politicas-2024)
+Pregrado en Ciencias Políticas 2024 > Plan de estudios Pregrado en Ciencias Políticas 2024 > Clasificación de asignaturas
+
+Filtros
+Semestres
+Núcleos, ciclos, trayectorias y énfasis
+Énfasis
+Cantidad de créditos:
+Inducción y Bienestar Universitario
+Cantidad de créditos:
+Plan de estudios del programa
+Cantidad de créditos:
+Prepráctica - Práctica
+Cantidad de créditos:
+Semestre 1
+Créditos
+totales15
+#### Inducción
+#### Bienestar Universitario
+#### Introducción al derecho
+#### Filosofía Política I
+#### Historia Política I
+#### Ciencia Política I
+#### Matemáticas
+Semestres
+Núcleos, ciclos, trayectorias y énfasis
+Énfasis
+Inducción y Bienestar Universitario
+Plan de estudios del programa
+Prepráctica - Práctica
+
+[3] Reconocimiento a la Excelencia Extracurricular (https://www.eafit.edu.co/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares)
+Reconocimiento a la Excelencia Extracurricular > Reconocimiento a la Excelencia en Actividades Estudiantiles Extracurriculares > Beca
+
+**La convocatoria estará habilitada entre el 27 de octubre y el 18 de noviembre de 2026.**
+- Becas y Financiación
+- Reconocimiento A La Excelencia En Actividades Estudiantiles Extracurriculares
+
+[4] EAFIT at your reach (https://www.eafit.edu.co/en/becas-y-financiacion/eafit-a-tu-alcance)
+EAFIT at your reach > Pagos
+
+- ¿Cuáles son las fechas de pago de mi financiación?
+- ¿Puedo hacer una compra de cartera para pagar mi financiación?
+- ¿Cómo puedo validar el estado de cuenta de mi credito?
+- ¿Puedo realizar abonos a capital?
+- ¿Qué formas de pago puedo utilizar para pagar la cuota?
+- ¿Qué pasa si se me vence la cuota de EAFIT a tu alcance?
+- ¿Cómo puedo cancelar la cuota de mi crédito EAFIT a tu alcance?
+- ¿Dónde puedo consultar el recibo de pago de la cuota de mi crédito con EAFIT a tu alcance?
+¿Cuáles son las fechas de pago de mi financiación?
+Los planes de financiación de la Universidad generalmente tienen establecidas unas fechas de pago (16 de cada mes) en el primer semestre de cada año las cuotas son de febrero a mayo y en el segundo semestre de agosto a noviembre.
+¿Puedo hacer una compra de cartera para pagar mi financiación?
+Si puedes tramitar un crédito para pagar el saldo de tu financiación con nuestros aliados financieros: Aquí.
+¿Cómo puedo validar el estado de cuenta de mi credito?","['credito universitario', 'becas estudiantiles', 'financiamiento estudios']",,con_respuesta,['https://www.eafit.edu.co/proceso-de-aplicacion-financiacion-estudiantes-nuevos-pregrado'],0,,1,1,1.86468,41e065ca-45f1-4830-a7c4-9003937250a0,01a204d1-c7df-7d42-aa91-ec521853d85c
+donde inscribo las clases del semestre?,"Para inscribir las clases del semestre, debes hacerlo a través del Autoservicio, de acuerdo con el PCA del semestre anterior [1][2][4].
+
+Los detalles específicos están en el Reglamento académico de pregrado, Artículo 45 – Inscripción de clases [4].","[{'n': 1, 'titulo': 'Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior.', 'url': 'https://www.eafit.edu.co/calendario-academico/consulta-la-cita-para-la-inscripcion-de-clases-traves-del-autoservicio-de', 'categoria': 'calendario'}, {'n': 2, 'titulo': 'Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior.', 'url': 'https://www.eafit.edu.co/calendario-academico/consulta-la-cita-para-la-inscripcion-de-clases-traves-del-autoservicio-de-0', 'categoria': 'calendario'}, {'n': 4, 'titulo': 'Reglamento académico de pregrado, Artículo 45 – Inscripción de clases', 'url': 'https://www.eafit.edu.co/calendario-academico/reglamento-academico-de-pregrado-articulo-45-inscripcion-de-clases', 'categoria': 'calendario'}]","['https://www.eafit.edu.co/calendario-academico/consulta-la-cita-para-la-inscripcion-de-clases-traves-del-autoservicio-de', 'https://www.eafit.edu.co/calendario-academico/consulta-la-cita-para-la-inscripcion-de-clases-traves-del-autoservicio-de-0', 'https://www.eafit.edu.co/calendario-eventos/clases-abiertas-2026-2', 'https://www.eafit.edu.co/calendario-academico/reglamento-academico-de-pregrado-articulo-45-inscripcion-de-clases', 'https://www.eafit.edu.co/consultar-tramites-y-servicios-por-orden-alfabetico-registro-academico']","['253b1f28fcad1252d54b03e06b8c2425_000', 'babc8339bd891746263262b5b683ca69_000', 'f4513b1dea80b165a5eb9756e29acb76_000', '5d68cecf8efe6a4fd40cb01bcdbe1167_000', 'f83fc4177895fe45ddcb8a1c9d04b0c7_000']","[1] Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior. (https://www.eafit.edu.co/calendario-academico/consulta-la-cita-para-la-inscripcion-de-clases-traves-del-autoservicio-de)
+Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior.
+
+Reglamento académico de pregrado, Artículo 45 – Inscripción de clases
+- Calendario Académico
+- Consulta La Cita Para La Inscripción de Clases, A Través del Autoservicio, de Acuerdo Con El PCA del Semestre Anterior.
+
+[2] Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior. (https://www.eafit.edu.co/calendario-academico/consulta-la-cita-para-la-inscripcion-de-clases-traves-del-autoservicio-de-0)
+Consulta la cita para la inscripción de clases, a través del Autoservicio, de acuerdo con el PCA del semestre anterior.
+
+Reglamento académico de pregrado, Artículo 45 – Inscripción de clases
+- Calendario Académico
+- Consulta La Cita Para La Inscripción de Clases, A Través del Autoservicio, de Acuerdo Con El PCA del Semestre Anterior.
+
+[3] Clases Abiertas 2026-2 (https://www.eafit.edu.co/calendario-eventos/clases-abiertas-2026-2)
+Clases Abiertas 2026-2
+
+15 y 16 de octubre.
+Evento donde los aspirantes viven una clase real del programa que les interesa, con estudiantes y profesor reales, antes de decidir si se inscriben.
+- Calendario Eventos
+- Clases Abiertas 2026-2
+
+[4] Reglamento académico de pregrado, Artículo 45 – Inscripción de clases (https://www.eafit.edu.co/calendario-academico/reglamento-academico-de-pregrado-articulo-45-inscripcion-de-clases)
+Reglamento académico de pregrado, Artículo 45 – Inscripción de clases
+
+- Calendario Académico
+- Reglamento Académico de Pregrado, Artículo 45 – Inscripción de Clases
+
+[5] Consultar trámites y servicios por orden alfabético (https://www.eafit.edu.co/consultar-tramites-y-servicios-por-orden-alfabetico-registro-academico)
+Consultar trámites y servicios por orden alfabético > Trámites y servicios por orden alfabético
+
+- Consultar Trámites y Servicios Por Orden Alfabético - Registro Académico","['inscripción clases pregrado', 'trámites académicos', 'oficina registro académico']",,con_respuesta,['https://www.eafit.edu.co/Preguntas-Frecuentes'],0,,1,1,1.453907,6b5ebe9d-eabb-4a06-bbdb-3844022ca6e9,01a204d1-cf28-7f03-8ede-b073230e0821
+"Si me enfermo estando en el campus, ¿dónde me atienden?","Si te enfermas en el campus, puedes acudir al Servicio Médico de la Universidad EAFIT para atención de salud no programada. Este servicio está dirigido a todas las personas en el campus que necesiten atención médica urgente o no programada [1].
+
+Además, si necesitas atención médica en tu hogar o en otro lugar fuera del campus, puedes solicitar el servicio CEM – Emergencia Médica, que ofrece atención de urgencias y emergencias médicas [2].","[{'n': 1, 'titulo': 'Servicio Médico', 'url': 'https://www.eafit.edu.co/bienestar-universitario/vida-universitaria/servicios-salud', 'categoria': 'bienestar'}, {'n': 2, 'titulo': 'Estudiantes de idiomas', 'url': 'https://www.eafit.edu.co/bienestar-universitario/convenios/estudiantes-idiomas', 'categoria': 'bienestar'}]","['https://www.eafit.edu.co/bienestar-universitario/vida-universitaria/servicios-salud', 'https://www.eafit.edu.co/bienestar-universitario/convenios/estudiantes-idiomas', 'https://www.eafit.edu.co/noticias/salud-estructural-los-edificios-tambien-se-enferman', 'https://www.eafit.edu.co/bienvenidos/estudiantes-de-otras-regiones']","['bcab0fec972a3f53750f6871f2aadcbd_003', '514352b728216f92bfb20732c519164c_004', '25c0f444e9f79e529f07f141dc382a97_000', '37432a2a59dddf34e99002af330b1bfa_022', '25c0f444e9f79e529f07f141dc382a97_001']","[1] Servicio Médico (https://www.eafit.edu.co/bienestar-universitario/vida-universitaria/servicios-salud)
+Servicio Médico > Validación de incapacidades médicas estudiantes > Atención prehospitalaria y área protegida
+
+Dirigido a todas las personas que estén en el campus y tengan una situación que requiere atención de salud no programada.
+
+[2] Estudiantes de idiomas (https://www.eafit.edu.co/bienestar-universitario/convenios/estudiantes-idiomas)
+Estudiantes de idiomas > Pago por directo > Correo
+
+angela.garcia@prever.com.co
+VetPlus
+VetPlus
+Servicio de Medicina Prepagada Veterinaria con cobertura a nivel nacional. Presta servicios de medicina preventiva, atención y tratamiento de urgencias, enfermedades y accidentes.
+En convenio con la Universidad, se obtiene descuento sobre la tarifa de los diferentes planes ofrecidos por VetPlus.
+Aplica para perros y gatos.
+**Aplica a nivel nacional.**
+###### Contacto
+**Tomás Restrepo**
+tomas.restrepo@guiabien.com
+Para mayor información de la Compañía y de los productos que ofrece.
+Visita la página www.vetpluscolombia.com
+CEM – Emergencia Médica
+CEM – Emergencia Médica
+Es un servicio de atención médica para aquellas personas que deseen ser atendidas en la comodidad de su hogar o en el lugar donde se encuentren, ofrece la atención de urgencias, emergencias y consultas médicas.
+Solicitar el servicio a la persona de Marsh que está asignada como contacto.
+
+[3] Salud estructural: los edificios también se enferman (https://www.eafit.edu.co/noticias/salud-estructural-los-edificios-tambien-se-enferman)
+Salud estructural: los edificios también se enferman
+
+Medio ambiente y desarrollo
+
+Salud estructural: los edificios también se enferman
+
+**EAFIT cuida y monitorea tus edificaciones con detalle para tu bienestar y tu seguridad.**
+- Salud Estructural: Los Edificios También Se Enferman
+###### ¿Te has preguntado por qué se cae un edificio? ¿Has escuchado decir que un edificio tiene orden de demolición?
+Hay gran variedad de razones para que esto suceda: una mala estructura, problemas con su diseño, problemas en la calidad de sus materiales o catástrofes naturales. Todos estos son elementos que pueden afectar el estado de las construcciones o, como se le denomina técnicamente, la salud estructural.
+
+[4] Estudiantes de otras regiones (https://www.eafit.edu.co/bienvenidos/estudiantes-de-otras-regiones)
+Estudiantes de otras regiones > Guía para tu vida en Medellín > Consejos de seguridad y salud
+
+Bebe con moderación para mantener siempre el control y mantente cerca de personas de tu confianza.
+Tu salud es lo primero
+Es fundamental que estés afiliado a una Entidad Promotora de Salud (EPS). Si ya estás afiliado en tu ciudad de origen, ¡atención a esto! Debes realizar el trámite de portabilidad. Este proceso es indispensable para que tu centro de atención médica (IPS) sea reasignado a uno cercano a tu nueva vivienda en Medellín y puedas acceder a los servicios de salud sin contratiempos.","['servicio médico campus', 'centro de salud estudiante', 'atención médica estudiantes']",,con_respuesta,['https://www.eafit.edu.co/bienestar-universitario/vida-universitaria/servicios-salud'],1,,1,1,1.85252,7c1b86e8-8400-4bd9-a587-f3ebcadfa62f,01a204d1-d4d6-72ba-9953-a80cb1a5b45b
+¿Puedo pedir libros de otras universidades a través de la biblioteca?,"Sí, la Biblioteca de EAFIT puede ayudarte a conseguir documentos de otras universidades a través del servicio Obtención de documentos - Celsius[1][3][4].
+
+Este servicio es cooperativo y facilita la localización de artículos de revistas, documentos de eventos, normas, capítulos de libros y tesis en varios países del mundo[1]. Debes tener en cuenta que los documentos obtenidos solo pueden ser utilizados para uso académico o investigativo y no pueden ser comercializados[1]. 
+
+Ingresa la solicitud a través de la plataforma Celsius[3][4].","[{'n': 1, 'titulo': 'Obtención de documentos (Celsius)', 'url': 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/celsius', 'categoria': 'cultura'}, {'n': 3, 'titulo': 'Acceso a recursos electrónicos', 'url': 'https://www.eafit.edu.co/preguntas-frecuentes/acceso-recursos-electronicos-eafit', 'categoria': 'institucional'}, {'n': 4, 'titulo': 'Búsqueda de información', 'url': 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/preguntas-frecuentes/busqueda-de-informacion', 'categoria': 'cultura'}]","['https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/celsius', 'https://www.eafit.edu.co/noticias/nuestro-impacto/el-legado-de-michel-hermelin-sigue-siendo-generoso', 'https://www.eafit.edu.co/preguntas-frecuentes/acceso-recursos-electronicos-eafit', 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/preguntas-frecuentes/busqueda-de-informacion']","['792a83f4699f3adbd507b832cf31654c_000', '9a87a37a5c9b05c44d5b727aeab5c945_003', '9c8bd584e6ae1d6ab040b404b79f684f_007', '9c8bd584e6ae1d6ab040b404b79f684f_008', '436f585d47831365828ab884c5ccc911_006']","[1] Obtención de documentos (Celsius) (https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/celsius)
+Obtención de documentos (Celsius)
+
+- Centro Cultural Biblioteca Luis Echavarría Villegas
+- Obtención de Documentos (Celsius)
+###### ¿Tienes una referencia bibliográfica y no puedes acceder al texto completo?
+El servicio de obtención de documentos es un servicio cooperativo entre bibliotecas que facilita la localización de artículos de revistas, documentos de eventos, normas, capítulos de libros y tesis en varios países del mundo.
+**Ten presente:** Los documentos obtenidos a través de este servicio sólo pueden ser utilizados para uso académico o investigativo, no pueden ser comercializados. La Biblioteca verificará de forma previa las autorizaciones correspondientes para realizar el envío de los documentos requeridos.
+###### ¿Cómo puedo solicitar el servicio? 
+Esta aplicación permite a los usuarios realizar sus pedidos, revisar y tener la información relativa al proceso de solicitudes.
+Ten presente: si eres externo a la Universidad EAFIT para solicitar el servicio debes escribir a conmutacion@eafit.edu.co
+
+[2] El legado de Michel Hermelin sigue siendo generoso (https://www.eafit.edu.co/noticias/nuestro-impacto/el-legado-de-michel-hermelin-sigue-siendo-generoso)
+El legado de Michel Hermelin sigue siendo generoso
+
+###### Filminas, notas de viajes y fotografías
+No solo libros hacen parte de esta colección, incluso, cuenta la coordinadora, que al saber de la noticia visitaron y seleccionaron valioso material que no había en la Universidad y que hacía parte de sus investigaciones en historia, literatura y otros temas que fueron de su interés.
+> “Cuando uno mira todos estos documentos se da cuenta de la seriedad de los estudios de Michel con respecto a la geología y no solo de la de aquí, porque es teoría que también está en inglés y francés. Además, todo está muy actualizado, lo que quiere decir que siempre estuvo investigando y poniendo todo al día”, _señala María Isabel._
+Como lo afirma su hijo, muchas veces él prefería pedir libros nuevos a través de la Biblioteca de la Universidad para que quedaran allí y llegó a tener, por momentos, el record de pedidos y préstamos de material.
+
+[3] Acceso a recursos electrónicos (https://www.eafit.edu.co/preguntas-frecuentes/acceso-recursos-electronicos-eafit)
+Acceso a recursos electrónicos
+
+¿La Biblioteca me ayuda a conseguir documentos que no están en las bases de datos?
+Sí, la Biblioteca te ayuda a buscar documentos a través de convenios con otras bibliotecas.
+Debes de tener presente las siguientes condiciones para la prestación del servicio:
+Artículos de revista: máximo 3 artículos de un mismo ejemplar
+Libros, tesis y patentes: máximo el 30 % del total del documento para dar cumplimiento a las leyes de derecho de autor y propiedad intelectual. Derechos de autor
+Sólo se solicitan tesis de la Universidad de Antioquia, debido a restricciones que existen en otras instituciones. Ingresa la solicitud a través de la plataforma Celsius .
+¿Existe un tutorial de Celsius? 
+Sí, puedes encontrar el manual de uso aquí.
+¿Cómo accedo a los tutoriales de las bases de datos?
+Accede a este enlace .
+¿La Biblioteca me presta lectores de libros electrónicos?
+
+Acceso a recursos electrónicos
+
+¿Cómo accedo a los tutoriales de las bases de datos?
+Accede a este enlace .
+¿La Biblioteca me presta lectores de libros electrónicos?
+La Biblioteca ofrece el servicio de préstamo de lectores de libros electrónicos Kindle precargados con libros de literatura. Estos dispositivos se pueden prestar en la Sala de Audiovisuales. Encuentra más información y las condiciones del servicio aquí.
+¿En dónde puedo encontrar revistas electrónicas? 
+Las revistas electrónicas las puedes encontrar buscando directamente en el Descubridor del home de la Biblioteca o puedes acceder directamente con el siguiente link.
+¿Qué puedo hacer cuando un artículo o documento que necesito no está disponible en las bases de datos bibliográficas de la Biblioteca?
+Por medio del servicio Obtención de documentos - Celsius, la Biblioteca localiza y solicita en otras bibliotecas copias de artículos de revistas y documentos. Encuentra más información ingresando al siguiente link.
+
+[4] Búsqueda de información (https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/preguntas-frecuentes/busqueda-de-informacion)
+Búsqueda de información
+
+Debes de tener presente las siguientes condiciones para la prestación del servicio:
+Artículos de revista: máximo 3 artículos de un mismo ejemplar
+Libros, tesis y patentes: máximo el 30 % del total del documento para dar cumplimiento a las leyes de derecho de autor y propiedad intelectual. Derechos de autor
+Sólo se solicitan tesis de la Universidad de Antioquia, debido a restricciones que existen en otras instituciones. Ingresa la solicitud a través de la plataforma Celsius.
+¿Existe un tutorial de Celsius?
+Sí, puedes encontrar el manual de uso aquí.
+¿Cómo accedo a los tutoriales de las bases de datos?
+Accede a este enlace.
+¿La Biblioteca me presta lectores de libros electrónicos?
+La Biblioteca ofrece el servicio de préstamo de lectores de libros electrónicos Kindle precargados con libros de literatura. Estos dispositivos se pueden prestar en la Sala de Audiovisuales. Encuentra más información y las condiciones del servicio aquí.
+¿En dónde puedo encontrar revistas electrónicas?",[],,con_respuesta,['https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/prestamo-interbibliotecario'],0,,1,1,1.572992,a068fed4-1caf-4c7b-9d26-ce7cfaad5aa9,01a204d1-dc13-7b7b-8206-ed1499535f0e
+¿Cuánto del semestre me paga la beca para estudiantes destacados?,La Beca Crédito al Talento cubre el **100 % del valor de la matrícula** para estudiantes destacados entre el 4º y 8º semestre [2]. La Beca Excelencia y Liderazgo Nutresa–EAFIT también ofrece el **100 % del valor de la matrícula** para el semestre 2026-2 [3].,"[{'n': 2, 'titulo': 'Lidera el futuro en Expo Gerenciar 2025', 'url': 'https://www.eafit.edu.co/calendario-eventos/beca-credito-al-talento-postulaciones-abiertas', 'categoria': 'calendario'}, {'n': 3, 'titulo': 'Lidera el futuro en Expo Gerenciar 2025', 'url': 'https://www.eafit.edu.co/calendario-eventos/beca-excelencia-y-liderazgo-nutresa-eafit-postulaciones-abiertas', 'categoria': 'calendario'}]","['https://www.eafit.edu.co/noticias/eafit-es-noticia-nuestro-impacto/eafit-presenta-las-becas-talento-en-investigacion-con-las', 'https://www.eafit.edu.co/calendario-eventos/beca-credito-al-talento-postulaciones-abiertas', 'https://www.eafit.edu.co/calendario-eventos/beca-excelencia-y-liderazgo-nutresa-eafit-postulaciones-abiertas', 'https://www.eafit.edu.co/becas-y-financiacion/becas-estudiantes-deportistas', 'https://www.eafit.edu.co/becas-y-financiacion/vamos-pa-lante']","['8046dc95b4ff7aa6cc1ec2431cd2f60e_006', '4b537b0ee388e7fcb36ce5c51312dab6_000', '0223e2b20ed46caba6c1315f4f9eabf2_000', '6423ec686db6572000c9ddc1d527d37a_000', '69063d22900b141ff84d0cb2989160db_002']","[1] EAFIT presenta las Beca Talento en Investigación, con las que aspira a fortalecer el ecosistema científico del país (https://www.eafit.edu.co/noticias/eafit-es-noticia-nuestro-impacto/eafit-presenta-las-becas-talento-en-investigacion-con-las)
+EAFIT presenta las Beca Talento en Investigación, con las que aspira a fortalecer el ecosistema científico del país > EAFIT presenta las Becas Talento en Investigación, con las que aspira fortalecer el ecosistema científico del país
+
+###### Formar investigadores para transformar país
+Claudia Restrepo Montoya, rectora de EAFIT, destaca que, en la actualidad, la Universidad cuenta con un sólido sistema de becas que financia entre el 40 % y el 100 % de los estudios de pregrado de los jóvenes talentosos y de excelencia, pero ahora el reto es robustecerlo con nuevas líneas enfocadas en posgrado, como las becas Talento Público dirigidas a líderes del sector público que se presentaron en el primer semestre, y con este nuevo programa de Becas Talento en Investigación.
+
+[2] Lidera el futuro en Expo Gerenciar 2025 (https://www.eafit.edu.co/calendario-eventos/beca-credito-al-talento-postulaciones-abiertas)
+Lidera el futuro en Expo Gerenciar 2025 > Beca Crédito al talento: postulaciones abiertas
+
+Si eres estudiante entre 4º y 8º semestre y te destacas por tu excelencia académica, te invitamos a postularte a la convocatoria Crédito al Talento de la Fundación Bolívar Davivienda.
+Consulta los requisitos, conoce los detalles de la convocatoria y realiza tu inscripción antes del 3 de mayo.
+- Calendario Eventos
+- Beca Crédito Al Talento: Postulaciones Abiertas
+
+[3] Lidera el futuro en Expo Gerenciar 2025 (https://www.eafit.edu.co/calendario-eventos/beca-excelencia-y-liderazgo-nutresa-eafit-postulaciones-abiertas)
+Lidera el futuro en Expo Gerenciar 2025 > Beca Excelencia y Liderazgo Nutresa–EAFIT: postulaciones abiertas
+
+Si eres estudiante de pregrado activo en el semestre 2026-1 y te destacas por tu excelencia académica y liderazgo en actividades artísticas, deportivas o de impacto social, esta oportunidad es para ti.
+Consulta los requisitos de la convocatoria y postúlate antes del 10 de mayo para optar por el 100 % del valor de tu matrícula en el semestre 2026-2.
+- Calendario Eventos
+- Beca Excelencia y Liderazgo Nutresa–EAFIT: Postulaciones Abiertas
+
+[4] Becas estudiantes deportistas (https://www.eafit.edu.co/becas-y-financiacion/becas-estudiantes-deportistas)
+Becas estudiantes deportistas > Beca
+
+Es un reconocimiento para los estudiantes de pregrado que hagan parte de los equipos representativos de la Universidad EAFIT.
+- Becas y Financiación
+- Becas Estudiantes Deportistas
+
+[5] Becas Rescate Vamos Pa'lante (https://www.eafit.edu.co/becas-y-financiacion/vamos-pa-lante)
+Becas Rescate Vamos Pa'lante
+
+5. Demostrar que la situación económica de tu familia se encuentra afectada impidiendo pagar la totalidad de la matrícula del semestre 2027-1.
+**\*No es requisito haber estado activo en el semestre 2026-1 y/o 2026-2**
+¿Qué cubre la beca?
+¿Qué cubre la beca?
+Los estudiantes podrán ser beneficiarios con alguno o ambos de los siguientes apoyos:
+Beca que cubre el 95% del valor de la matrícula y el 5% restante lo debe cubrir el estudiante. **Esta beca no cubre reajustes.**
+Auxilio económico para gastos de sostenimiento Universitarios según lo establecido por el Comité de Becas.
+¿Cómo es el proceso para aplicar?
+¿Cómo es el proceso para aplicar?
+Diligencia el formato de solicitud de la beca aquí
+\*El beneficio lo debe utilizar el estudiante en el semestre 2027-1.","['becas estudiantes destacados', 'becas pregrado', 'política de becas']",,con_respuesta,"['https://www.eafit.edu.co/noticias/nuestro-impacto/eafit-tiene-abierta-su-convocatoria-de-becas-talento-y-aliados-para', 'https://www.eafit.edu.co/becas-y-financiacion/becas-talento-eafit']",0,,1,1,1.671884,fbf15951-2866-4c88-86d3-a74e8f2799a6,01a204d1-e238-7146-9ffd-580d6da97e3c
+"el archivo no me sube en la plataforma de admisiones, que hago","El sistema permite adjuntar archivos PDF, JPG o Word [1]. Si el error continúa, escribe a contacto@eafit.edu.co [1]. Verifica que el archivo sea de uno de estos formatos y que no supere el peso permitido [1].","[{'n': 1, 'titulo': 'Preguntas Frecuentes', 'url': 'https://www.eafit.edu.co/Preguntas-Frecuentes', 'categoria': 'institucional'}]","['https://www.eafit.edu.co/Preguntas-Frecuentes', 'https://www.eafit.edu.co/en/centro-de-ayuda', 'https://www.eafit.edu.co/organizaciones/talento-eafit/estudiantes/practicas-estudiantiles/estudiantes-de-practica']","['dbf4204de88eb2849523691822d6de9b_100', '25300eed05f5e724c0272a7abc88366e_036', 'dbf4204de88eb2849523691822d6de9b_005', '25300eed05f5e724c0272a7abc88366e_034', 'a9678cc48223fd5d7b6ea53c9417c8b4_002']","[1] Preguntas Frecuentes (https://www.eafit.edu.co/Preguntas-Frecuentes)
+Preguntas Frecuentes > Resuelve tus dudas > Pregrado
+
+Sí, es posible gestionar varios trámites durante la misma atención, siempre y cuando correspondan al área en la cual solicitaste el turno.
+¿Cuánto tiempo tarda la atención en las Taquillas Virtuales?
+El tiempo de espera y de atención puede variar según el tipo de solicitud y el área que te atienda.
+Sin embargo, el equipo siempre buscará ofrecerte la mayor agilidad posible.
+¿Se pueden adjuntar archivos en esta herramienta?
+Sí. Durante la atención podrás adjuntar los archivos necesarios para realizar tu trámite.
+¿Qué tipo de archivos puedo subir a las Taquillas Virtuales?
+La plataforma permite adjuntar los siguientes formatos:
+\- PDF
+\- JPG
+\- PNG
+\- Word
+\- Excel
+\- PowerPoint
+¿Qué áreas ofrecen atención a través de las Taquillas Virtuales?
+Las siguientes áreas cuentan con atención por este medio:
+\- Admisiones y Registro
+\- Apoyo Financiero
+\- Tesorería
+\- Idiomas EAFIT
+\- Centro de Gestión Documental
+¿Qué tipos de servicios puedo solicitar en las Taquillas Virtuales?
+
+Preguntas Frecuentes > Resuelve tus dudas > Pregrado
+
+¿Qué hago si el sistema no guarda mi información o me da error?
+En caso de presentarse algún inconveniente con el registro de tu información, comunícate a través del correo electrónico contacto@eafit.edu.co y descríbenos el detalle del error que se te ha generado y así te ayudarémos a que finalices tu inscripción exitosamente.
+¿Cómo adjunto los documentos para la inscripción?
+Durante la realización del formulario, en “Anexo de documentos”, puedes subirlos (PDF, JPG o Word). Si no los tienes listos en el momento, puedes adjuntarlos después en Epik → “Anexo de Documentos”.
+El sistema no me permite adjuntar un documento, ¿qué debo hacer?
+Verifica que el archivo sea PDF, Word o JPG y que no supere el peso permitido. Si el error continúa, escribe a contacto@eafit.edu.co
+¿Cómo sé si mi programa requiere entrevista de admisión?
+
+[2] Centro de ayuda (https://www.eafit.edu.co/en/centro-de-ayuda)
+Centro de ayuda > ¿Tienes dudas? Consulta nuestras preguntas frecuentes
+
+¿Se pueden adjuntar archivos en esta herramienta?
+Sí, puedes adjuntar los archivos necesarios para realizar tu trámite.
+¿Qué tipo de archivos se pueden subir a taquillas virtuales? 
+Los archivos que puedes compartir con los asesores son: PDF, JPG, WORD, Excel, POWER POINT, PNG.
+¿Qué áreas tendrán atención por las taquillas virtuales?
+En las taquillas virtuales tendrán atención las siguientes áreas: 
+Admisiones y registro
+Apoyo Financiero
+Tesorería
+Idiomas
+Centro de Gestión Documental
+¿Qué tipo de servicios atenderán las taquillas virtuales?
+Atención general
+Certificados
+Financiación EAFIT a tu alcance
+Asesoría y solicitudes de ICETEX
+Asesoría para estudiar en Idiomas EAFIT
+Solicitud y apoyo para citas de clasificación
+Asesoría con autoservicio EPIK
+Asesoría para realizar el pago
+Asesoría con las clases en línea
+Asesoría y solicitudes de exámenes de certificación internacional
+¿Puedo hacer varios trámites con el mismo turno?
+Sí, puedes realizar varios trámites en el mismo turno.
+
+Centro de ayuda > ¿Tienes dudas? Consulta nuestras preguntas frecuentes
+
+- ¿Cuánto tiempo se demora la atención en esta herramienta?
+- ¿Se pueden adjuntar archivos en esta herramienta?
+- ¿Qué tipo de archivos se pueden subir a taquillas virtuales? 
+- ¿Qué áreas tendrán atención por las taquillas virtuales?
+- ¿Qué tipo de servicios atenderán las taquillas virtuales?
+- ¿Puedo hacer varios trámites con el mismo turno?
+¿Qué son las taquillas virtuales?
+Las taquillas virtuales  son una herramienta mediante la cual los aspirantes, estudiantes, padres de familia, acudientes, profesores, proveedores, entre otros, pueden recibir atención virtual de los diferentes servicios que ofrecen las áreas de Registro Académico, Apoyo Financiero, Idiomas, Tesorería y Caja y Gestión Documental. Debes solicitar el turno, ingresar tus datos personales y seleccionar el servicio de interés. Posteriormente tendrás una ventana donde te mostrará el detalle del turno y la interacción con el asesor.
+
+[3] Estudiantes de práctica (https://www.eafit.edu.co/organizaciones/talento-eafit/estudiantes/practicas-estudiantiles/estudiantes-de-practica)
+Estudiantes de práctica > Preguntas frecuentes
+
+- ¿Me tengo que registrar en la plataforma?
+- ¿Qué hago si el sistema no me permite ingresar?
+- ¿Cómo actualizo mis datos en el sistema?
+- ¿Cómo actualizo mi hoja de vida?
+- ¿Puedo subir mi portafolio al sistema?
+- ¿Puedo cargar una hoja de vida en formato diferente?
+- ¿Hay un límite de aplicaciones a ofertas?
+- ¿Qué hago si por error hice clic en el botón “Aplicar""?
+- ¿Cómo me entero de cómo voy en el proceso?
+- ¿Cómo me entero de que una organización me eligió?
+- ¿Cómo aplico a una oferta que no esté en la plataforma?
+- ¿Una vez que me eligieron debo hacer algo más en la plataforma?
+- ¿Qué pasa cuándo no me aparecen ofertas en el sistema?
+¿Me tengo que registrar en la plataforma?
+No, tienes acceso directo si tienes activas tus credenciales de correo de EAFIT y contraseña, además si estás matriculado en la asignatura Talento II.
+¿Qué hago si el sistema no me permite ingresar?
+Deberás comunicarte directamente con tu asesor de talento o escribir al correo talento.eafit@eafit.edu.co.","['trámite admisiones plataforma', 'ayuda subir archivo admisiones', 'soporte técnico admisiones']",,con_respuesta,['https://www.eafit.edu.co/Preguntas-Frecuentes'],1,,1,1,1.579228,fd31aa00-b997-43fd-8c78-2ca4ff0d8721,01a204d1-e8c0-75c9-8a81-db58989ab454

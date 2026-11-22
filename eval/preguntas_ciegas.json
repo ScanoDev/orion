@@ -1,0 +1,122 @@
+
+[
+  {
+    "id": 301,
+    "pregunta": "¿Qué maestrías relacionadas con computación ofrece EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/posgrados/escuela-ciencias-aplicadas-ingenieria/maestria-ciencias-datos-y-analitica",
+      "https://www.eafit.edu.co/posgrados/escuela-ciencias-aplicadas-ingenieria/maestria-ingenieria"
+    ]
+  },
+  {
+    "id": 302,
+    "pregunta": "¿Cuántos semestres dura la Maestría en Ingeniería de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/posgrados/escuela-ciencias-aplicadas-ingenieria/maestria-ingenieria"
+    ]
+  },
+  {
+    "id": 303,
+    "pregunta": "¿Qué modalidad de estudio tiene la Maestría en Administración (MBA) de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/posgrados/escuela-administracion/maestria-administracion-mba-medellin"
+    ]
+  },
+  {
+    "id": 304,
+    "pregunta": "¿Qué programas de posgrado ofrece la Escuela de Administración de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/posgrados/escuela-administracion/maestria-administracion-mba-bogota",
+      "https://www.eafit.edu.co/posgrados/escuela-administracion/maestria-administracion-riesgos-medellin",
+      "https://www.eafit.edu.co/posgrados/escuela-administracion/especializacion-gerencia-proyectos-medellin",
+      "https://www.eafit.edu.co/posgrados/escuela-administracion/maestria-agronegocios"
+    ]
+  },
+  {
+    "id": 305,
+    "pregunta": "¿Dónde puedo consultar el valor del primer semestre de una maestría en EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/posgrados/escuela-ciencias-aplicadas-ingenieria/maestria-ciencias-datos-y-analitica"
+    ]
+  },
+  {
+    "id": 306,
+    "pregunta": "¿Cuáles son las opciones de movilidad internacional para estudiantes de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/internacionalizacion/intercambio-en-el-exterior"
+    ]
+  },
+  {
+    "id": 307,
+    "pregunta": "¿Qué servicios ofrece el Centro Cultural Biblioteca Luis Echavarría Villegas?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/reserva-espacios",
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/prestamo",
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/asesoria",
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/dondepublicar"
+    ]
+  },
+  {
+    "id": 308,
+    "pregunta": "¿Qué actividades culturales pueden realizar los estudiantes de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/patrimonio-y-cultura/actividades-culturales/trueque-literario",
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/actividades-culturales/cuatro-ojos-serie-club",
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/patrimonio-y-cultura/actividades-culturales/exhibicion-digital"
+    ]
+  },
+  {
+    "id": 309,
+    "pregunta": "¿Qué requisitos de admisión tiene la Maestría en Ingeniería de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/posgrados/escuela-ciencias-aplicadas-ingenieria/maestria-ingenieria"
+    ]
+  },
+  {
+    "id": 310,
+    "pregunta": "¿Qué opciones de formación continua ofrece EAFIT a profesionales?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/institucional/pei/para-formar-humanidad-sociedad/oportunidades-educacion-continua"
+    ]
+  },
+  {
+    "id": 311,
+    "pregunta": "¿Cuál es el número exacto de computadores dañados en los laboratorios de EAFIT esta semana?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 312,
+    "pregunta": "¿Cuánto dinero recaudó cada cafetería del campus de EAFIT durante el día de ayer?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 313,
+    "pregunta": "¿Cuál es el listado actualizado de las direcciones de residencia de todos los profesores de EAFIT?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 314,
+    "pregunta": "¿Cómo puedo cambiar la batería de un automóvil?",
+    "tipo": "fuera_de_tema",
+    "urls_esperadas": []
+  },
+  {
+    "id": 315,
+    "pregunta": "¿Cuál es la mejor estrategia para ganar una partida de ajedrez?",
+    "tipo": "fuera_de_tema",
+    "urls_esperadas": []
+  }
+]
