@@ -1,0 +1,93 @@
+[
+  {
+    "id": 101,
+    "pregunta": "en la cancha de pasto artificial de la u que se puede jugar?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas"
+    ],
+    "parafrasea_id": 3
+  },
+  {
+    "id": 102,
+    "pregunta": "el archivo no me sube en la plataforma de admisiones, que hago",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes"
+    ],
+    "parafrasea_id": 5
+  },
+  {
+    "id": 103,
+    "pregunta": "Ya me admitieron, ¿cómo aparto mi puesto para empezar a estudiar?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes"
+    ],
+    "parafrasea_id": 8
+  },
+  {
+    "id": 104,
+    "pregunta": "cuanto mide el campo de futbol de pasto natural de eafit",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas"
+    ],
+    "parafrasea_id": 9
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Cuánto del semestre me paga la beca para estudiantes destacados?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/noticias/nuestro-impacto/eafit-tiene-abierta-su-convocatoria-de-becas-talento-y-aliados-para",
+      "https://www.eafit.edu.co/becas-y-financiacion/becas-talento-eafit"
+    ],
+    "parafrasea_id": 12
+  },
+  {
+    "id": 106,
+    "pregunta": "no tengo plata para pagar el primer semestre, la universidad me puede dar un credito?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/proceso-de-aplicacion-financiacion-estudiantes-nuevos-pregrado"
+    ],
+    "parafrasea_id": 14
+  },
+  {
+    "id": 107,
+    "pregunta": "Si me enfermo estando en el campus, ¿dónde me atienden?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/vida-universitaria/servicios-salud"
+    ],
+    "parafrasea_id": 22
+  },
+  {
+    "id": 108,
+    "pregunta": "se me vence el libro que saque, como hago para tenerlo unos dias mas",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/prestamo"
+    ],
+    "parafrasea_id": 28
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Puedo pedir libros de otras universidades a través de la biblioteca?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/prestamo-interbibliotecario"
+    ],
+    "parafrasea_id": 29
+  },
+  {
+    "id": 110,
+    "pregunta": "donde inscribo las clases del semestre?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes"
+    ],
+    "parafrasea_id": 18
+  }
+]

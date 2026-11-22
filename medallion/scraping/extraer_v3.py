@@ -23,7 +23,8 @@ load_dotenv()
 LLAVE = os.environ["FIRECRAWL_API_KEY"]
 ENTRADA = "medallion/scraping/urls_v3.json"
 SALIDA = "data/raw_v3"
-HILOS = 3                     # peticiones al mismo tiempo (Firecrawl limita la concurrencia)
+HILOS = 1
+                     # peticiones al mismo tiempo (Firecrawl limita la concurrencia)
 REINTENTOS = 5
 CUERPO_BASE = {
     "formats": ["markdown"],

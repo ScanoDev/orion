@@ -5,17 +5,25 @@ ORION_MODO=bedrock (por defecto): Nova 2 Lite y Titan V2 en Amazon Bedrock.
 ORION_MODO=falso: modelos de mentira de LangChain, para probar el código sin AWS.
 
 Uso:
-    from modelos import obtener_llm, obtener_embeddings
+    from modelos import obtener_llm, obtener_embeddings, modo_modelos
 """
 import os
+from pathlib import Path
+
+from dotenv import load_dotenv
+
+# Lee el .env de la raíz del repo (llaves de LangSmith, ORION_MODO, ORION_BUSQUEDA).
+# Lo que ya esté definido en la terminal tiene prioridad sobre el .env.
+load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 REGION = "us-east-1"
 MODELO_LLM = "us.amazon.nova-2-lite-v1:0"           # perfil de inferencia (empieza con us.)
 MODELO_EMBEDDINGS = "amazon.titan-embed-text-v2:0"  # 1024 dimensiones
 
 
-def _modo():
-    return os.getenv("ORION_MODO", "bedrock")
+def modo_modelos():
+    """'bedrock' o 'falso'."""
+    return os.getenv("ORION_MODO", "bedrock").strip().lower()
 
 
 def _cliente_bedrock():
@@ -31,7 +39,7 @@ def _cliente_bedrock():
 
 
 def obtener_llm():
-    if _modo() == "falso":
+    if modo_modelos() == "falso":
         from langchain_core.language_models.fake_chat_models import FakeListChatModel
 
         return FakeListChatModel(responses=["(respuesta de prueba del modelo falso) [1]"])
@@ -42,7 +50,7 @@ def obtener_llm():
 
 
 def obtener_embeddings():
-    if _modo() == "falso":
+    if modo_modelos() == "falso":
         from langchain_core.embeddings import DeterministicFakeEmbedding
 
         return DeterministicFakeEmbedding(size=1024)

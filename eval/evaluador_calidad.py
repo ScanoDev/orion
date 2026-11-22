@@ -1,3 +1,12 @@
+"""
+Evaluador de fidelidad con un LLM como juez (1 si todo lo que dice la respuesta
+está respaldado por el contexto que recibió ORION, 0 si inventa algo).
+
+Limitación conocida: el juez es el mismo Nova 2 Lite que genera las respuestas,
+y un modelo tiende a calificar bien sus propios textos (sesgo de autopreferencia).
+Por eso la fidelidad se reporta junto con las métricas que no usan LLM
+(recuperacion, abstencion, contesto) y con una revisión manual de los casos en 0.
+"""
 
 import json
 import re
