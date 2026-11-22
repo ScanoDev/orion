@@ -6,10 +6,12 @@ Uso (desde la raíz del repo):
     python eval/ejecutar_evaluacion.py --modos bm25 vector hibrido       # los tres modos, para la tabla
     python eval/ejecutar_evaluacion.py --dataset parafraseadas --modos bm25 vector hibrido
     python eval/ejecutar_evaluacion.py --dataset ciegas --modos bm25 hibrido --confirmar-final
+    python eval/ejecutar_evaluacion.py --indice v3 --modos hibrido        # mismo dataset sobre el corpus v3
+    python eval/ejecutar_evaluacion.py --dataset cobertura --indice v2 v3 --modos hibrido
     python eval/ejecutar_evaluacion.py --local eval/preguntas_parafraseadas.json   # sin subir nada
 
 Cada modo queda como un experimento aparte en LangSmith, con nombre
-"<version>-<dataset>" (por ejemplo "v0.3-hibrido-desarrollo"), y además se guarda
+"<version>-<dataset>" (por ejemplo "v0.3-hibrido-v2-desarrollo"), y además se guarda
 un CSV en eval/resultados/ con una fila por pregunta, listo para las gráficas.
 
 ORION-CIEGAS es la prueba ciega: preguntas nuevas que nadie ha corrido. Se corre una sola
@@ -32,11 +34,12 @@ from langsmith.schemas import Example  # noqa: E402
 
 from eval.evaluador_calidad import evaluar_calidad  # noqa: E402
 from eval.evaluadores import evaluar_abstencion, evaluar_contesto, evaluar_recuperacion  # noqa: E402
-from rag.cadena import MODOS, responder, version_cadena  # noqa: E402
+from rag.cadena import INDICE_POR_DEFECTO, MODOS, responder, version_cadena  # noqa: E402
 
 DATASETS = {
     "desarrollo": "ORION-DESARROLLO",
     "parafraseadas": "ORION-PARAFRASEADAS",
+    "cobertura": "ORION-COBERTURA",       # temas que solo están en las páginas nuevas de v3
     "final": "ORION-EVALUACION-FINAL",   # las 15 ya usadas: línea base de v0.2
     "ciegas": "ORION-CIEGAS",             # preguntas nuevas: prueba ciega, se corre una sola vez
 }
@@ -45,10 +48,10 @@ EVALUADORES = [evaluar_recuperacion, evaluar_abstencion, evaluar_contesto, evalu
 METRICAS = ["recuperacion", "fidelidad", "contesto", "abstencion"]
 
 
-def crear_objetivo(modo):
+def crear_objetivo(modo, indice):
     """La función que LangSmith llama con cada pregunta del dataset."""
     def ejecutar_orion(inputs):
-        r = responder(inputs["pregunta"], modo=modo)
+        r = responder(inputs["pregunta"], modo=modo, indice=indice)
         return {
             "respuesta": r["respuesta"],
             "fuentes": r["fuentes"],
@@ -56,7 +59,7 @@ def crear_objetivo(modo):
             "chunk_ids": r["chunk_ids"],
             "contexto": r["contexto"],
         }
-    ejecutar_orion.__name__ = f"orion_{modo}"
+    ejecutar_orion.__name__ = f"orion_{modo}_{indice}"
     return ejecutar_orion
 
 
@@ -97,6 +100,7 @@ def main():
     parser = argparse.ArgumentParser(description="Evaluación de ORION")
     parser.add_argument("--dataset", choices=DATASETS, default="desarrollo")
     parser.add_argument("--modos", nargs="+", choices=MODOS, default=["hibrido"])
+    parser.add_argument("--indice", nargs="+", default=[INDICE_POR_DEFECTO], help="Corpus: v2, v3 o ambos")
     parser.add_argument("--confirmar-final", action="store_true",
                         help="Obligatorio para el dataset ciegas (prueba ciega, se corre una vez)")
     parser.add_argument("--local", metavar="JSON",
@@ -111,21 +115,23 @@ def main():
     else:
         datos, etiqueta, subir, cliente = DATASETS[args.dataset], args.dataset, True, Client()
 
-    for modo in args.modos:
-        nombre = f"{version_cadena(modo)}-{etiqueta}"
-        print(f"\n=== {nombre} ===")
-        resultados = evaluate(
-            crear_objetivo(modo),
-            data=datos,
-            evaluators=EVALUADORES,
-            experiment_prefix=nombre,
-            description=f"ORION {version_cadena(modo)} sobre {etiqueta}",
-            metadata={"version_cadena": version_cadena(modo), "modo_busqueda": modo, "dataset": etiqueta},
-            max_concurrency=1,
-            client=cliente,
-            upload_results=subir,
-        )
-        guardar_y_resumir(resultados, nombre)
+    for indice in args.indice:
+        for modo in args.modos:
+            version = version_cadena(modo, indice)
+            nombre = f"{version}-{etiqueta}"
+            print(f"\n=== {nombre} ===")
+            resultados = evaluate(
+                crear_objetivo(modo, indice),
+                data=datos,
+                evaluators=EVALUADORES,
+                experiment_prefix=nombre,
+                description=f"ORION {version} sobre {etiqueta}",
+                metadata={"version_cadena": version, "modo_busqueda": modo, "indice": indice, "dataset": etiqueta},
+                max_concurrency=1,
+                client=cliente,
+                upload_results=subir,
+            )
+            guardar_y_resumir(resultados, nombre)
 
 
 if __name__ == "__main__":

@@ -4,6 +4,7 @@ Prueba de la cadena RAG con preguntas de distintos tipos.
 Correr desde la raíz del repo:
     python rag/probar_cadena.py              # modo del .env (por defecto hibrido)
     python rag/probar_cadena.py bm25         # o vector, o hibrido
+    python rag/probar_cadena.py hibrido v3   # modo y corpus (v2 o v3)
     python rag/probar_cadena.py bm25 > rag/resultados/v03_bm25.txt
 Sin AWS (modelos falsos), en PowerShell:
     $env:ORION_MODO="falso"; python rag/probar_cadena.py
@@ -25,13 +26,14 @@ PREGUNTAS = [
 ]
 
 modo = sys.argv[1] if len(sys.argv) > 1 else None
+indice = sys.argv[2] if len(sys.argv) > 2 else None
 if modo and modo not in MODOS:
     raise SystemExit(f"Modo {modo!r} no existe. Usa uno de: {', '.join(MODOS)}")
 
-print(f"VERSIÓN: {version_cadena(modo)}")
+print(f"VERSIÓN: {version_cadena(modo, indice)}")
 for pregunta in PREGUNTAS:
     inicio = time.time()
-    r = responder(pregunta, modo=modo)
+    r = responder(pregunta, modo=modo, indice=indice)
     print("=" * 80)
     print("PREGUNTA:", pregunta)
     print(f"RESPUESTA ({time.time() - inicio:.1f} s):\n{r['respuesta']}")

@@ -42,7 +42,12 @@ the of and to in for on with at by from is are was were be or as an this that it
 
 def tokenizar(texto):
     texto = unicodedata.normalize("NFKD", (texto or "").lower())
-    texto = "".join(c for c in texto if not unicodedata.combining(c))   # quita tildes
+    # quita tildes y caracteres invisibles (como el espacio de ancho cero U+200B que traen
+    # algunas páginas dentro de las palabras: "financ\u200biación" debe ser "financiación")
+    texto = "".join(
+        c for c in texto
+        if not unicodedata.combining(c) and unicodedata.category(c) != "Cf"
+    )
     palabras = [t for t in re.findall(r"[a-z0-9]+", texto) if t not in PALABRAS_VACIAS]
     return [_raiz(p) for p in palabras]   # becas, beca -> bec
 

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 201,
+    "pregunta": "¿EAFIT tiene cursos de inglés para adultos?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/idiomas/ingles-adultos"
+    ]
+  },
+  {
+    "id": 202,
+    "pregunta": "¿Qué es el programa EAFIT a tu alcance?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance"
+    ]
+  },
+  {
+    "id": 203,
+    "pregunta": "¿Puedo financiar la matrícula con un crédito de Sufi a corto plazo?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/becas-y-financiacion/credito-educativo-sufi-corto-plazo"
+    ]
+  },
+  {
+    "id": 204,
+    "pregunta": "¿En qué consiste la Beca Fundación Fraternidad EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/becas-y-financiacion/beca-fundacion-fraternidad-eafit"
+    ]
+  },
+  {
+    "id": 205,
+    "pregunta": "¿Puedo usar un crédito condonable de Sapiencia para estudiar un pregrado en EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados",
+      "https://www.eafit.edu.co/becas-y-financiacion/fondo-sapiencia-con-recursos-de-epm"
+    ]
+  },
+  {
+    "id": 206,
+    "pregunta": "¿EAFIT da algún reconocimiento por participar en actividades extracurriculares o de liderazgo?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/becas-y-financiacion/reconocimiento-liderazgo-actividades-estudiantiles-extracurriculares"
+    ]
+  },
+  {
+    "id": 207,
+    "pregunta": "¿Cuándo son las vacaciones colectivas en EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-academico/vacaciones-colectivas",
+      "https://www.eafit.edu.co/calendario-academico/vacaciones-colectivas-0"
+    ]
+  },
+  {
+    "id": 208,
+    "pregunta": "¿Qué es el consultorio financiero de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/escuela-finanzas-economia-gobierno/consultorio-financiero"
+    ]
+  },
+  {
+    "id": 209,
+    "pregunta": "¿EAFIT tiene una librería donde pueda comprar libros?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/servicios/acentos/libreria-acentos"
+    ]
+  },
+  {
+    "id": 210,
+    "pregunta": "¿Dónde encuentro un mapa del campus de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/campus-eafit/mapa"
+    ]
+  },
+  {
+    "id": 211,
+    "pregunta": "¿Qué requisito de lengua extranjera exige EAFIT a los estudiantes?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/idiomas/politica-lengua-extranjera"
+    ]
+  },
+  {
+    "id": 212,
+    "pregunta": "¿Cuándo es el ensayo de la ceremonia de grado?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado",
+      "https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado-medellin-2"
+    ]
+  }
+]

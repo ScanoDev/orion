@@ -2,12 +2,12 @@
 Baja de S3 el índice publicado y lo deja listo para usar:
 
     indices/<version>/chroma_orion_<version>.zip -> vectorstore/orion_<version>/
-    indices/<version>/chunks.parquet             -> data/processed/
-    indices/<version>/manifiesto.json            -> data/processed/
+    indices/<version>/chunks.parquet             -> data/processed/<version>/
+    indices/<version>/manifiesto.json            -> data/processed/<version>/
 
 Uso (desde la raíz del repo):
-    python rag/descargar_indice.py             # versión v2
-    python rag/descargar_indice.py v1          # otra versión
+    python rag/descargar_indice.py             # versión v3 (la de la app)
+    python rag/descargar_indice.py v2          # la línea base, para comparar
     python rag/descargar_indice.py --forzar    # vuelve a bajar aunque ya exista
 """
 import argparse
@@ -20,13 +20,14 @@ import boto3
 from botocore.exceptions import ClientError
 
 BUCKET = "orion-eafit-2026"
-SALIDA = Path("data/processed")
+PROCESADOS = Path("data/processed")
 
 
 def descargar(version, forzar=False):
     s3 = boto3.client("s3")
     prefijo = f"indices/{version}/"
     carpeta_chroma = Path(f"vectorstore/orion_{version}")
+    SALIDA = PROCESADOS / version   # cada versión en su carpeta, para poder comparar v2 y v3
     SALIDA.mkdir(parents=True, exist_ok=True)
 
     def bajar(nombre, destino):
@@ -66,7 +67,7 @@ def descargar(version, forzar=False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Baja el índice de ORION desde S3")
-    parser.add_argument("version", nargs="?", default="v2")
+    parser.add_argument("version", nargs="?", default="v3")
     parser.add_argument("--forzar", action="store_true")
     args = parser.parse_args()
     descargar(args.version, args.forzar)
