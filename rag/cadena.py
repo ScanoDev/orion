@@ -115,23 +115,59 @@ def _numeros_citados(texto):
     return {int(n) for n in re.findall(r"\[(\d+)\]", texto)}
 
 
+
 def responder(pregunta, historial=None):
-    # historial se recibe desde ya para cumplir el contrato; se usa desde la versión con reescritura
+    # El historial se utilizará en futuras versiones.
+
+    # 1. Recuperar documentos relevantes
     docs = _seleccionar(_buscador().invoke(pregunta))
     paginas = _agrupar_por_pagina(docs)
+
+    # 2. Preparar el contexto para el modelo
+    contexto = _formatear_contexto(paginas) or "(sin resultados)"
+
+    # 3. Generar respuesta
     respuesta = _generador().invoke(
-        {"pregunta": pregunta, "contexto": _formatear_contexto(paginas) or "(sin resultados)"},
-        config={"run_name": "orion_responder", "metadata": {"version_cadena": VERSION_CADENA}},
+        {
+            "pregunta": pregunta,
+            "contexto": contexto,
+        },
+        config={
+            "run_name": "orion_responder",
+            "metadata": {
+                "version_cadena": VERSION_CADENA
+            },
+        },
     )
+
+    # 4. Limpiar respuesta e identificar citas
     respuesta = _limpiar_respuesta(respuesta)
     citados = _numeros_citados(respuesta)
+
+    # 5. Devolver información para la app y LangSmith
     return {
         "respuesta": respuesta,
+
         "fuentes": [
-            {"n": n, "titulo": p[0].metadata["titulo"], "url": p[0].metadata["url"],
-             "categoria": p[0].metadata["categoria"]}
+            {
+                "n": n,
+                "titulo": p[0].metadata["titulo"],
+                "url": p[0].metadata["url"],
+                "categoria": p[0].metadata["categoria"],
+            }
             for n, p in enumerate(paginas, start=1)
             if n in citados
         ],
-        "chunk_ids": [d.metadata["chunk_id"] for d in docs],
+
+        "chunk_ids": [
+            d.metadata["chunk_id"]
+            for d in docs
+        ],
+
+        "urls_contexto": list(dict.fromkeys(
+            d.metadata["url"]
+            for d in docs
+        )),
+
+        "contexto": contexto,
     }

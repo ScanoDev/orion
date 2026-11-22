@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cómo puedo inscribirme a un programa de pregrado en EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes",
+      "https://www.eafit.edu.co/inscripciones-pregrados-posgrados"
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué pasos debo seguir para crear una solicitud de admisión a través de EPIK?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/epik/faq",
+      "https://www.eafit.edu.co/en/epik"
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Para qué deportes está habilitada la cancha de grama sintética de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas"
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué instalaciones deportivas describe EAFIT en su página de canchas?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas"
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué debo hacer si no puedo adjuntar un documento en EPIK?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes"
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué deportes se pueden practicar en las canchas de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas"
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Los estudiantes nuevos deben registrar sus materias antes de iniciar el primer semestre?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes"
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué es la reserva de cupo para un aspirante admitido?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes"
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuáles son las dimensiones de la cancha de fútbol de grama natural de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas"
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuáles son las dimensiones de la cancha de fútbol sintética de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/deportes/infraestructura/canchas"
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué agrupación musical participa en el concierto didáctico Un bosque encantado sinfónico?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-eventos/concierto-didactico-un-bosque-encantado-sinfonico"
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué porcentaje de matrícula pueden cubrir las Becas Talento y Aliados de pregrado?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/noticias/nuestro-impacto/eafit-tiene-abierta-su-convocatoria-de-becas-talento-y-aliados-para",
+      "https://www.eafit.edu.co/becas-y-financiacion/becas-talento-eafit"
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuáles son algunos de los requisitos para postularse a las Becas Talento y Aliados?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/becas-y-financiacion/becas-talento-eafit"
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "¿EAFIT ofrece opciones de financiación para estudiantes nuevos de pregrado?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/proceso-de-aplicacion-financiacion-estudiantes-nuevos-pregrado"
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué condiciones generales se solicitan para aplicar a financiación de matrícula de pregrado?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/alternativas-de-financiacion-y-pago"
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Dónde se realizó el concierto didáctico Un bosque encantado sinfónico?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-eventos/concierto-didactico-un-bosque-encantado-sinfonico"
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Dónde se consultan los calendarios académicos de pregrado y posgrado?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-academico/consulta-la-cita-para-la-inscripcion-de-clases-traves-del-autoservicio-de"
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "¿En qué plataforma se realiza el registro de asignaturas de los estudiantes?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/Preguntas-Frecuentes"
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Dónde puedo consultar los reglamentos académicos de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/institucional/reglamentos/reglamento-academico-de-los-programas-de-pregrado"
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué compositor escribió la Suite del Quijote interpretada en el concierto Las aventuras de Don Quijote?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-eventos/las-aventuras-de-don-quijote"
+    ]
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué tipo de agrupación musical participa en el concierto Las aventuras de Don Quijote?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-eventos/las-aventuras-de-don-quijote"
+    ]
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué servicios de salud ofrece EAFIT a estudiantes y empleados?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/vida-universitaria/servicios-salud"
+    ]
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué tipo de atención prehospitalaria se ofrece en el campus de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/vida-universitaria/servicios-salud"
+    ]
+  },
+  {
+    "id": 24,
+    "pregunta": "¿En qué consiste la Asignatura Bienestar Universitario?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/desarrollo-artistico/asignatura-bu"
+    ]
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cuántas horas comprende la Asignatura Bienestar Universitario y cómo se distribuyen?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienestar-universitario/desarrollo-artistico/asignatura-bu"
+    ]
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Quién es el autor del libro Lanzadera presentado en un evento de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-eventos/presentacion-del-libro-lanzadera-de-mario-escobar-velasquez"
+    ]
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Quién es el jefe de la Editorial EAFIT mencionado en la presentación del libro Lanzadera?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/calendario-eventos/presentacion-del-libro-lanzadera-de-mario-escobar-velasquez"
+    ]
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cómo puedo renovar un préstamo de material de la Biblioteca?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/servicios/prestamo"
+    ]
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué es el préstamo interbibliotecario que ofrece la Biblioteca de EAFIT?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/prestamo-interbibliotecario"
+    ]
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Cuántos materiales pueden solicitar en préstamo interbibliotecario los usuarios y por cuántos días?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/prestamo-interbibliotecario"
+    ]
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué grupos de investigación tiene EAFIT en la Escuela de Ciencias Aplicadas e Ingeniería?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/investigacion/grupos-investigacion"
+    ]
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué es un semillero de investigación en EAFIT y cómo se relaciona con los grupos de investigación?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/investigacion/nuestros-semilleros/relaciones-internacionales-gris-atlas"
+    ]
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué apoyos ofrece EAFIT para la gestión de grupos de investigación y sus registros en Minciencias?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/ciencia-tecnologia-innovacion/investigacion"
+    ]
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué programas académicos de EAFIT se relacionan con la sostenibilidad?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/informes-de-gestion-y-sostenibilidad/informe-sostenibilidad-2021/sostenibilidad-ambiental"
+    ]
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué información y canales de contacto ofrece EAFIT para resolver inquietudes de Registro Académico?",
+    "tipo": "con_respuesta",
+    "urls_esperadas": [
+      "https://www.eafit.edu.co/bienvenidos",
+      "https://www.eafit.edu.co/registro-academico"
+    ]
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cuántos espacios exactos de parqueadero para bicicletas hay disponibles actualmente en el campus de Medellín?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Cuál fue el consumo mensual exacto de agua del campus de EAFIT durante cada mes de 2025?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Qué empresa tiene actualmente el contrato de operación de cada punto de alimentación del campus y cuál es el valor de esos contratos?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Cuántas personas ingresaron al campus de Medellín cada día durante el último semestre?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Cuál es el inventario completo y actualizado de computadores disponibles para préstamo a estudiantes, con sus números de serie?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuál fue el presupuesto ejecutado por cada escuela de EAFIT en el año 2025?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Cuántos estudiantes de cada programa tienen actualmente un promedio acumulado superior a 4,5?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Cuál es el número de placa y el horario diario de cada vehículo oficial de transporte de EAFIT?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué estudiante obtuvo la calificación más alta en cada asignatura ofrecida por EAFIT durante 2025-2?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cuál es el listado de contraseñas de las redes inalámbricas internas de EAFIT?",
+    "tipo": "sin_respuesta",
+    "urls_esperadas": []
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cuál es la receta tradicional para preparar una bandeja paisa?",
+    "tipo": "fuera_de_tema",
+    "urls_esperadas": []
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Qué equipo ganó la Copa Mundial de Fútbol de 2018?",
+    "tipo": "fuera_de_tema",
+    "urls_esperadas": []
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Cómo puedo configurar un entorno virtual de Python en Ubuntu?",
+    "tipo": "fuera_de_tema",
+    "urls_esperadas": []
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Cuál es la capital de Japón y cuántos habitantes tiene?",
+    "tipo": "fuera_de_tema",
+    "urls_esperadas": []
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué diferencias existen entre una motocicleta de 150 cc y una de 200 cc?",
+    "tipo": "fuera_de_tema",
+    "urls_esperadas": []
+  }
+]
