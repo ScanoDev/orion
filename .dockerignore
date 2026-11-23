@@ -1,0 +1,12 @@
+.git
+.env
+.venv
+venv
+__pycache__
+data/
+vectorstore/
+chroma/
+aws/
+awscliv2.zip
+eval/resultados/
+rag/resultados/
