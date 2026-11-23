@@ -1,0 +1,126 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >
+  ORION (chatbot RAG de EAFIT). Una EC2 que construye la imagen de Docker desde GitHub,
+  baja el índice v3 de S3 y sirve la app de Streamlit en el puerto 8501.
+  La instancia usa un rol de IAM: no hay llaves de AWS en el código ni en el contenedor.
+
+Parameters:
+  ClaveApp:
+    Type: String
+    NoEcho: true
+    MinLength: 8
+    AllowedPattern: "[A-Za-z0-9_-]+"
+    ConstraintDescription: Solo letras, números, guion y guion bajo (mínimo 8).
+    Description: Clave que pide la app antes de chatear.
+  IpPermitida:
+    Type: String
+    Default: 0.0.0.0/0
+    Description: Rango que puede abrir la app (por ejemplo 181.0.0.10/32). 0.0.0.0/0 = cualquiera, con clave.
+  TipoInstancia:
+    Type: String
+    Default: t3.large
+    AllowedValues: [t3.medium, t3.large, t3.xlarge]
+  RepoUrl:
+    Type: String
+    Default: https://github.com/ScanoDev/orion.git
+  Rama:
+    Type: String
+    Default: main
+  Bucket:
+    Type: String
+    Default: orion-eafit-2026
+  AmiId:
+    Type: AWS::SSM::Parameter::Value<AWS::EC2::Image::Id>
+    Default: /aws/service/ami-amazon-linux-latest/al2023-ami-kernel-default-x86_64
+
+Resources:
+  RolOrion:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: orion-app-ec2
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal: { Service: ec2.amazonaws.com }
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        # Session Manager: entrar a la instancia desde la consola, sin SSH ni llaves
+        - arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore
+      Policies:
+        - PolicyName: orion-bedrock-s3
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Sid: ModelosBedrock
+                Effect: Allow
+                Action:
+                  - bedrock:InvokeModel
+                  - bedrock:InvokeModelWithResponseStream
+                Resource:
+                  # El perfil "us." reparte las llamadas entre regiones de EE. UU.,
+                  # por eso el modelo base va con región comodín.
+                  - !Sub arn:aws:bedrock:*:${AWS::AccountId}:inference-profile/us.amazon.nova-2-lite-v1:0
+                  - arn:aws:bedrock:*::foundation-model/amazon.nova-2-lite-v1:0
+                  - arn:aws:bedrock:*::foundation-model/amazon.titan-embed-text-v2:0
+              - Sid: LeerIndice
+                Effect: Allow
+                Action: s3:GetObject
+                Resource: !Sub arn:aws:s3:::${Bucket}/indices/*
+
+  PerfilOrion:
+    Type: AWS::IAM::InstanceProfile
+    Properties:
+      Roles: [!Ref RolOrion]
+
+  GrupoSeguridad:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: ORION - solo el puerto de Streamlit
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 8501
+          ToPort: 8501
+          CidrIp: !Ref IpPermitida
+      Tags:
+        - { Key: Name, Value: orion-app }
+
+  Instancia:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: !Ref AmiId
+      InstanceType: !Ref TipoInstancia
+      IamInstanceProfile: !Ref PerfilOrion
+      SecurityGroupIds: [!GetAtt GrupoSeguridad.GroupId]
+      BlockDeviceMappings:
+        - DeviceName: /dev/xvda
+          Ebs: { VolumeSize: 30, VolumeType: gp3, Encrypted: true }
+      Tags:
+        - { Key: Name, Value: orion-app }
+        - { Key: Proyecto, Value: ORION }
+      UserData:
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          # El avance queda en /var/log/cloud-init-output.log (o: aws ec2 get-console-output)
+          set -euxo pipefail
+          dnf install -y docker git
+          systemctl enable --now docker
+          git clone --depth 1 --branch ${Rama} ${RepoUrl} /opt/orion
+          cd /opt/orion
+          docker build -t orion .
+          mkdir -p /opt/orion-datos/data /opt/orion-datos/vectorstore
+          # --network host: el contenedor usa las credenciales del rol de la EC2 sin configuración extra
+          docker run -d --name orion --restart always --network host \
+            -e ORION_CLAVE=${ClaveApp} \
+            -e LANGSMITH_TRACING=false \
+            -v /opt/orion-datos/data:/app/data \
+            -v /opt/orion-datos/vectorstore:/app/vectorstore \
+            orion
+          echo "ORION LISTO"
+
+Outputs:
+  Url:
+    Description: Enlace de la app (tarda unos 10 minutos en estar lista después de crear el stack)
+    Value: !Sub http://${Instancia.PublicDnsName}:8501
+  InstanciaId:
+    Value: !Ref Instancia

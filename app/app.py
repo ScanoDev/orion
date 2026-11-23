@@ -1,3 +1,4 @@
+import hmac
 import json
 import os
 import sys
@@ -16,6 +17,19 @@ import cadena  # noqa: E402
 RUTA_FEEDBACK = RAIZ / "rag" / "resultados" / "feedback.jsonl"
 
 st.set_page_config(page_title="ORION · EAFIT")
+
+# Clave de acceso: solo si ORION_CLAVE existe (en el despliegue). En local no se pide.
+# Evita que cualquiera con el enlace gaste los créditos de Bedrock.
+CLAVE = os.getenv("ORION_CLAVE")
+if CLAVE and not st.session_state.get("autorizado"):
+    st.title("ORION · EAFIT")
+    clave = st.text_input("Clave de acceso", type="password")
+    if clave:
+        if hmac.compare_digest(clave.encode(), CLAVE.encode()):
+            st.session_state.autorizado = True
+            st.rerun()
+        st.error("Clave incorrecta")
+    st.stop()
 
 
 @st.cache_resource(show_spinner="Cargando el índice de búsqueda...")
