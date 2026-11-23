@@ -1,0 +1,12 @@
+﻿Experimento,Preguntas,Recuperacion,Fidelidad,Contesto,Abstencion,Latencia P50 (s),Latencia P95 (s)
+v0.4-bm25-v3-desarrollo,35,88.0,100.0,100.0,90.0,1.57,2.34
+v0.4-bm25-v3-parafraseadas,10,50.0,90.0,100.0,,1.76,4.73
+v0.4-hibrido-v2-cobertura,12,0.0,100.0,100.0,,2.62,6.17
+v0.4-hibrido-v2-desarrollo,35,80.0,88.0,100.0,90.0,2.51,3.04
+v0.4-hibrido-v3-base-desarrollo,35,84.0,96.0,100.0,90.0,1.17,1.61
+v0.4-hibrido-v3-base-parafraseadas,10,40.0,90.0,90.0,,1.27,1.69
+v0.4-hibrido-v3-cobertura,12,91.67,91.67,91.67,,2.5,4.68
+v0.4-hibrido-v3-desarrollo,35,80.0,96.0,96.0,100.0,2.3,3.14
+v0.4-hibrido-v3-parafraseadas,10,60.0,90.0,80.0,,2.7,5.93
+v0.4-vector-v3-desarrollo,35,76.0,92.0,100.0,70.0,2.4,2.99
+v0.4-vector-v3-parafraseadas,10,70.0,90.0,80.0,,2.5,2.89

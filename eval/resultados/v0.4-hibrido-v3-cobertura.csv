@@ -1,0 +1,601 @@
+﻿inputs.pregunta,outputs.respuesta,outputs.fuentes,outputs.urls_contexto,outputs.chunk_ids,outputs.contexto,outputs.consultas,error,reference.tipo,reference.urls_esperadas,feedback.recuperacion,feedback.abstencion,feedback.contesto,feedback.fidelidad,execution_time,example_id,id
+¿Puedo usar un crédito condonable de Sapiencia para estudiar un pregrado en EAFIT?,"Sí, puedes usar un crédito condonable de Sapiencia para estudiar un pregrado en EAFIT. La beca-crédito cubre la matrícula, asignando un monto de hasta **5.5 SMLMV por semestre**, que serán girados directamente a la IES [1][2].
+
+Para aplicar, debes haber nacido o demostrar residencia en el Distrito de Medellín durante los tres años anteriores a la apertura de la convocatoria, y es indispensable estar inscrito y admitido en la Universidad [1][2].","[{'n': 1, 'titulo': 'Sapiencia línea créditos Condonables Pregrado', 'url': 'https://www.eafit.edu.co/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados', 'categoria': 'becas_y_tramites'}, {'n': 2, 'titulo': 'Sapiencia Condonable Credit Lines for Undergraduate Degrees', 'url': 'https://www.eafit.edu.co/en/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados', 'https://www.eafit.edu.co/en/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados', 'https://www.eafit.edu.co/certificados']","['3f3dce11830d21abeb3da5c4ff42f8e8_000', 'c7b3f00fa0a8ef241404055583394abf_002', 'c7b3f00fa0a8ef241404055583394abf_001', '3f3dce11830d21abeb3da5c4ff42f8e8_001', '06cd471918ed805c3d680e0344686f82_009']","[1] Sapiencia línea créditos Condonables Pregrado (https://www.eafit.edu.co/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados)
+Sapiencia línea créditos Condonables Pregrado > Beca
+
+Se podrá financiar de acuerdo con la modalidad de crédito escogida.
+- Becas y Financiación
+- Sapiencia Línea Créditos Condonables Pregrado
+
+Sapiencia línea créditos Condonables Pregrado
+
+- ¿Cuándo se abre la convocatoria?
+- ¿Quiénes pueden aplicar?
+- ¿Qué cubre la beca-crédito?
+- Información adicional
+¿Cuándo se abre la convocatoria?
+¿Cuándo se abre la convocatoria?
+Definido por la Entidad
+¿Quiénes pueden aplicar?
+¿Quiénes pueden aplicar?
+Estudiantes que hayan nacido o demuestren residencia en el Distrito de Medellín durante los tres (3) años anteriores a la apertura de la convocatoria pública.
+**Indispensable estar inscrito y admitido en la Universidad.**
+Ver especificaciones adicionales en la página de Sapiencia **www.sapiencia.gov.co**
+¿Qué cubre la beca-crédito?
+¿Qué cubre la beca-crédito?
+Siempre que exista disponibilidad presupuestal por parte de Sapiencia, se podrá financiar de acuerdo con la modalidad de crédito escogida los siguientes valores:
+ **Matrícula:** Se asignará monto de hasta **5.5 SMLMV por semestre** los cuales serán girados directamente a la IES.
+
+[2] Sapiencia Condonable Credit Lines for Undergraduate Degrees (https://www.eafit.edu.co/en/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados)
+Sapiencia Condonable Credit Lines for Undergraduate Degrees > Sapiencia Línea Créditos Condonables Pregrado
+
+- ¿Cuándo se abre la convocatoria?
+- ¿Quiénes pueden aplicar?
+- ¿Qué cubre la beca-crédito?
+- Información adicional
+¿Cuándo se abre la convocatoria?
+¿Cuándo se abre la convocatoria?
+Pendiente por definir.
+¿Quiénes pueden aplicar?
+¿Quiénes pueden aplicar?
+Estudiantes que hayan nacido o demuestren residencia en el Distrito de Medellín durante los tres (3) años anteriores a la apertura de la convocatoria pública.
+**Indispensable estar inscrito y admitido en la Universidad.**
+Ver especificaciones adicionales en la página de Sapiencia **www.sapiencia.gov.co**
+¿Qué cubre la beca-crédito?
+¿Qué cubre la beca-crédito?
+Siempre que exista disponibilidad presupuestal por parte de Sapiencia, se podrá financiar de acuerdo con la modalidad de crédito escogida los siguientes valores:
+ **Matrícula:** Se asignará monto de hasta **5.5 SMLMV por semestre** los cuales serán girados directamente a la IES.
+
+Sapiencia Condonable Credit Lines for Undergraduate Degrees > Beca
+
+You’ll be able to finance your undergraduate education depending on the credit modality of your choice.
+- Becas y Financiación
+- Sapiencia Condonable Credit Lines For Undergraduate Degrees
+
+[3] Consulta certificados digitales (https://www.eafit.edu.co/certificados)
+Consulta certificados digitales > Certificados digitales
+
+Te recomendamos hacer el proceso con tiempo suficiente antes del vencimiento de la liquidación de matrícula, recuerda que la Agencia de Educación Superior de Medellín – Sapiencia, no asume gastos de extemporaneidad.
+Si por algún motivo, no adjuntas todos los documentos requeridos por la Agencia para tu renovación, la plataforma no permitirá guardar el proceso.
+##### Para la legalización de tu crédito Sapiencia debes:
+**Paso 1:** Ingresa a la página web www.sapiencia.gov.co  en las fechas establecidas y diligencia el formulario de legalización del crédito condonable.
+**¡Ten en cuenta!**
+Carga en la plataforma de legalización los documentos solicitados que soportan la información que registraste en el formulario de inscripción para iniciar el proceso de legalización virtual.","['credito condonable sapiencia pregrado', 'política créditos condonables sapiencia', 'utilizar crédito sapiencia pregrado']",,con_respuesta,"['https://www.eafit.edu.co/becas-y-financiacion/sapiencia-linea-creditos-condonables-pregrados', 'https://www.eafit.edu.co/becas-y-financiacion/fondo-sapiencia-con-recursos-de-epm']",1,,1,1,6.90791,06eb7c8b-c3a8-48df-85c5-344ff08a110c,01a204d6-406d-747f-98cb-ae876aceaa4f
+¿Qué es el consultorio financiero de EAFIT?,"El Consultorio Financiero de EAFIT ofrece consultorías financieras sin costo para los interesados [1]. Está ubicado en el bloque 17 salón 102-103 y coordina Alejandra Luján, quien puede ser contactada al correo consultoriofinanciero@eafit.edu.co [1]. El consultorio busca brindar asesoría financiera a estudiantes y comunidad, como parte del programa de Especialización en Finanzas [2].","[{'n': 1, 'titulo': 'Consultorio financiero', 'url': 'https://www.eafit.edu.co/escuela-finanzas-economia-gobierno/consultorio-financiero', 'categoria': 'programas'}, {'n': 2, 'titulo': 'Especialización en Finanzas', 'url': 'https://www.eafit.edu.co/posgrados/escuela-finanzas-economia-gobierno/especializacion-finanzas-bogota', 'categoria': 'programas'}]","['https://www.eafit.edu.co/escuela-finanzas-economia-gobierno/consultorio-financiero', 'https://www.eafit.edu.co/posgrados/escuela-finanzas-economia-gobierno/especializacion-finanzas-bogota', 'https://www.eafit.edu.co/bienestar-universitario/desarrollo-artistico/noticias-eventos/dias-bienestar-2024', 'https://www.eafit.edu.co/institucional/historia/decada-1960']","['7a7361a3561601fb8b401dc6af963bec_009', '7a7361a3561601fb8b401dc6af963bec_011', 'b1fe998ecc6bc9082189f5a2b650a1ca_001', '8f8518e8a0166ec0b95cd60bddefd240_001', '7158e94ce2d5d5c5c8e2894eaeb13977_011']","[1] Consultorio financiero (https://www.eafit.edu.co/escuela-finanzas-economia-gobierno/consultorio-financiero)
+Consultorio financiero > ¿Necesitas una consultoría financiera?
+
+Escríbenos
+
+Consultorio financiero > Preguntas frecuentes
+
+¿Qué costo tiene la consultoría?
+Nuestras consultorías no tienen costo
+###### Contacto:
+**Alejandra Luján**
+**Coordinadora**
+**Correo:** consultoriofinanciero@eafit.edu.co
+**Ubicación:** bloque 17 salón 102-103
+
+[2] Especialización en Finanzas (https://www.eafit.edu.co/posgrados/escuela-finanzas-economia-gobierno/especializacion-finanzas-bogota)
+Especialización en Finanzas > Especialización en Finanzas - Bogotá
+
+SNIES 20398, Bogotá
+Si estudiaste una carrera afín a las finanzas o si sencillamente te interesa el tema, aunque vengas de pregrados ingenieriles o sociales, este programa (que con rigor académico forma a líderes en el campo de las finanzas desde una visión técnica y gerencial) es para ti.
+Déjanos tus datos
+- Escuela Finanzas Economia Gobierno
+- Especialización En Finanzas - Bogotá
+
+[3] Días de Bienestar 2024 (https://www.eafit.edu.co/bienestar-universitario/desarrollo-artistico/noticias-eventos/dias-bienestar-2024)
+Días de Bienestar 2024
+
+Pruebas rápidas VIH y donación de sangre.
+Masaje express y quiropráctico Optometría y tamizaje visual.
+Asesoría en planificación familiar Reflexología podal Cuidado facial.
+Actividades de promoción en salud mental: Desarrollo Estudiantil, Servicio Médico, El Escuchadero, Interiority, MentalSer, Creciendo con cariño, Mente Plena, Somos Ventu.
+Diversidad, género e inclusión.
+Educación financiera Asesoría y promoción de diversos servicios con aliados y proveedores.
+
+[4] Década de 1960 Universidad EAFIT (https://www.eafit.edu.co/institucional/historia/decada-1960)
+Década de 1960 Universidad EAFIT > Década 1960 > Hitos de la década
+
+- Firma del acta de constitución de la Escuela de Administración y Finanzas (EAF).
+- 1960
+- 1961
+- 1962
+- 1963
+- 1964
+- 1969
+Firma del acta de constitución de la Escuela de Administración y Finanzas (EAF).
+Firma del acta de constitución de la Escuela de Administración y Finanzas (EAF).
+Los empresarios que se encontraban a las 4:30 p.m., del día 4 mayo de 1960 en una de las oficinas de la Andi, firmaron una acta por medio de la que constituyeron una fundación, sometida a la ley colombiana, denominada Escuela de Administración y Finanzas.","['consultorio financiero', 'oficina de finanzas', 'asesoría financiera']",,con_respuesta,['https://www.eafit.edu.co/escuela-finanzas-economia-gobierno/consultorio-financiero'],1,,1,0,2.857873,25ffcd9a-9f24-4717-b26c-08f4ea5d1327,01a204d6-5b69-738c-a17e-9987f1f5f7d6
+¿En qué consiste la Beca Fundación Fraternidad EAFIT?,"La Beca Fundación Fraternidad - EAFIT cubre el **100%** de la matrícula para estudiantes en instituciones de carácter público [1][2][3]. 
+
+Los requisitos incluyen:
+- Ser colombiano y tener entre 15 y 40 años (sin límite para normalistas).
+- Tener documento de identidad vigente.
+- Clasificación SISBEN hasta máximo C18.
+- Residir por al menos tres años en los municipios con presencia de la Fundación [2][3]. 
+
+La convocatoria estará abierta del **3 al 23 de noviembre de 2026** [2].","[{'n': 1, 'titulo': 'Becas y financiación', 'url': 'https://www.eafit.edu.co/becas-y-financiacion', 'categoria': 'becas_y_tramites'}, {'n': 2, 'titulo': 'Beca Fundación Fraternidad - EAFIT', 'url': 'https://www.eafit.edu.co/becas-y-financiacion/beca-fundacion-fraternidad-eafit', 'categoria': 'becas_y_tramites'}, {'n': 3, 'titulo': 'Medellín Fraternity Foundation Scholarship - EAFIT', 'url': 'https://www.eafit.edu.co/en/becas-y-financiacion/beca-fundacion-fraternidad-eafit', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/becas-y-financiacion', 'https://www.eafit.edu.co/becas-y-financiacion/beca-fundacion-fraternidad-eafit', 'https://www.eafit.edu.co/en/becas-y-financiacion/beca-fundacion-fraternidad-eafit']","['9dcd46639c0d39d3ddb22bee3c4ebca8_007', 'ec3d42051d8eb6c14ce13f67fd910073_001', 'ec3d42051d8eb6c14ce13f67fd910073_000', 'd4f12ce7247d680737cedd3ac8bba5cb_002', 'd4f12ce7247d680737cedd3ac8bba5cb_004']","[1] Becas y financiación (https://www.eafit.edu.co/becas-y-financiacion)
+Becas y financiación > Becas y financiación de pregrados y posgrados > Beca Fundación Fraternidad - EAFIT
+
+El Fondo Beca cubrirá el **100%** de la matrícula en instituciones de **carácter público.**
+Conoce más información
+- Página actual 1
+- Página 2
+- Página 3
+- Página 4
+- Página 5
+- Siguiente página›
+- Última páginaÚltimo »
+Otras formas de acceder a los programas
+
+[2] Beca Fundación Fraternidad - EAFIT (https://www.eafit.edu.co/becas-y-financiacion/beca-fundacion-fraternidad-eafit)
+Beca Fundación Fraternidad - EAFIT
+
+- ¿Cuándo se abre la convocatoria?
+- ¿Quiénes pueden aplicar?
+- ¿Qué cubre la beca-crédito?
+- Requisitos para aplicar
+- Información adicional
+¿Cuándo se abre la convocatoria?
+¿Cuándo se abre la convocatoria?
+**La convocatoria estará habilitada del 3 al 23 de noviembre de 2026.**
+**Para postularte ingresa aquí** o fraternidadmedellin.org
+¿Quiénes pueden aplicar?
+¿Quiénes pueden aplicar?
+Estudiantes que cumplan con las condiciones establecidas por la Fundación Fraternidad y EAFIT, que sean egresados de las instituciones educativas públicas o de cobertura de los municipios con presencia de la Fundación.
+**Oriente:** San Carlos, San Rafael, Granada, San Vicente, El Peñol, San Luis, Rionegro, Marinilla, El Santuario, El Carmen de Viboral, El Retiro y La Ceja.
+**Suroeste:** Titiribí, Venecia, Tarso, Jericó, Támesis, Ciudad Bolívar, Fredonia, Jardín, Andes, Urrao y Amagá.
+**Urabá:** Carepa, Vigía del Fuerte, San Juan de Urabá, Necoclí.
+¿Qué cubre la beca-crédito?
+¿Qué cubre la beca-crédito?
+
+Beca Fundación Fraternidad - EAFIT > Beca
+
+El Fondo Beca cubrirá el **100%** de la matrícula en instituciones de **carácter público.**
+- Becas y Financiación
+- Beca Fundación Fraternidad - EAFIT
+
+[3] Medellín Fraternity Foundation Scholarship - EAFIT (https://www.eafit.edu.co/en/becas-y-financiacion/beca-fundacion-fraternidad-eafit)
+Medellín Fraternity Foundation Scholarship - EAFIT > Beca Fundación Fraternidad - EAFIT
+
+- ¿Cuándo se abre la convocatoria?
+- ¿Quiénes pueden aplicar?
+- ¿Qué cubre la beca-crédito?
+- Requisitos para aplicar
+- Información adicional
+¿Cuándo se abre la convocatoria?
+¿Cuándo se abre la convocatoria?
+Cerrada.
+¿Quiénes pueden aplicar?
+¿Quiénes pueden aplicar?
+Estudiantes que cumplan con las condiciones establecidas por la Fundación Fraternidad y EAFIT, que sean egresados de las instituciones educativas públicas o de cobertura de los municipios con presencia de la Fundación.
+**Oriente:** San Carlos, San Rafael, Granada, San Vicente, El Peñol, San Luis, Rionegro, Marinilla, El Santuario, El Carmen de Viboral, El Retiro y La Ceja.
+**Suroeste:** Titiribí, Venecia, Tarso, Jericó, Támesis, Ciudad Bolívar, Fredonia, Jardín y Andes.
+**Urabá:** Carepa, Vigía del Fuerte, San Juan de Urabá, Necoclí.
+¿Qué cubre la beca-crédito?
+¿Qué cubre la beca-crédito?
+El Fondo Beca cubrirá el 100% de la matrícula en instituciones de carácter público.
+
+Medellín Fraternity Foundation Scholarship - EAFIT > Beca Fundación Fraternidad - EAFIT
+
+La manutención no se configura como un mínimo vital para los becarios, está destinada solo al apoyo de gastos académicos durante su formación.
+El aspirante deberá revisar el reglamento del fondo de becas y determinar si puede acogerse a lo que allí se establece como requisitos de permanencia. 
+Requisitos para aplicar
+Requisitos para aplicar
+Ser colombiano.
+Tener entre 15 y 40 años. En caso de ser normalista, no aplica límite de edad.
+Tener documento de identidad vigente.
+Contar con clasificación del SISBEN, perteneciente al grupo hasta máximo C18. En caso de los padres o tutores sean podrían aplicar.
+Ser residente, por un período no inferior a tres años, de los municipios con presencia de la Fundación Fraternidad. Excepto para quienes en el momento de la postulación ya se encuentran estudiando en una Institución de Educación y que por esta razón ya vivan fuera de su municipio.","['becas fundacion fraternidad', 'programa beca fraternidad', 'requisitos beca fraternidad']",,con_respuesta,['https://www.eafit.edu.co/becas-y-financiacion/beca-fundacion-fraternidad-eafit'],1,,1,1,2.743063,33032c5c-32c5-4f6e-aeac-55986da215da,01a204d6-6693-7d71-852a-cfec7a6eed00
+¿EAFIT tiene cursos de inglés para adultos?,"Sí, EAFIT ofrece cursos de inglés para adultos. Los cursos están diseñados para personas mayores de 17 años y tienen una duración de 36 horas por curso [1][2]. Estos cursos buscan ayudar a dominar el inglés con una metodología efectiva y abrir oportunidades para crecer, viajar y destacar profesionalmente.","[{'n': 1, 'titulo': 'Inglés para adultos', 'url': 'https://www.eafit.edu.co/idiomas/ingles-adultos', 'categoria': 'programas'}, {'n': 2, 'titulo': 'Programas de Inglés', 'url': 'https://www.eafit.edu.co/idiomas/ingles', 'categoria': 'programas'}]","['https://www.eafit.edu.co/idiomas/ingles-adultos', 'https://www.eafit.edu.co/idiomas/ingles']","['02f381bff309c779f455dc04123a08d6_000', '02f381bff309c779f455dc04123a08d6_003', 'c2cacb0849c05739f23d271b02a253ea_009', 'c2cacb0849c05739f23d271b02a253ea_008']","[1] Inglés para adultos (https://www.eafit.edu.co/idiomas/ingles-adultos)
+Inglés para adultos > Edad +17
+
+Domina el inglés con una metodología efectiva y accede a oportunidades para crecer, viajar y destacar profesionalmente.
+Déjanos tus datos
+- Inglés Para Adultos
+Título de la sección
+
+Inglés para adultos > Duración
+
+36 horas por curso
+
+[2] Programas de Inglés (https://www.eafit.edu.co/idiomas/ingles)
+Programas de Inglés > Inglés para adultos > Edad +17
+
+Domina el inglés con una metodología efectiva y accede a oportunidades para crecer, viajar y destacar profesionalmente.
+Ver programa
+##### **Espacios de interés**
+
+Programas de Inglés > Inglés virtual para adultos > Edad +18
+
+Vive una experiencia flexible, personalizada y con acompañamiento real
+Ver programa","['cursos de inglés pregrado', 'cursos de inglés adultos', 'programas de inglés para adultos']",,con_respuesta,['https://www.eafit.edu.co/idiomas/ingles-adultos'],1,,1,1,2.256519,47778cd6-2db8-4ad5-b5f9-686461e27f99,01a204d6-714a-7b41-a40e-8febfaf95acb
+¿Dónde encuentro un mapa del campus de EAFIT?,"Encuentras el mapa del campus de EAFIT en la página web de la universidad. El mapa es interactivo y te permite ubicar edificios académicos, auditorios, zonas verdes y parqueaderos. Puedes explorarlo, hacer zoom y filtrar por categorías para encontrar direcciones precisas y planear tu recorrido dentro del campus [1][3][5].","[{'n': 1, 'titulo': 'Mapa del Campus EAFIT', 'url': 'https://www.eafit.edu.co/campus-eafit/mapa', 'categoria': 'otros'}, {'n': 3, 'titulo': 'Campus EAFIT', 'url': 'https://www.eafit.edu.co/campus-eafit', 'categoria': 'otros'}, {'n': 5, 'titulo': 'Campus EAFIT', 'url': 'https://www.eafit.edu.co/en/eafit-campus', 'categoria': 'otros'}]","['https://www.eafit.edu.co/campus-eafit/mapa', 'https://www.eafit.edu.co/en/universidad-parque', 'https://www.eafit.edu.co/campus-eafit', 'https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/descubre-y-crea/edicion-180/recorre-la-historia-del-planeta-tierra-en-un-paseo-por-eafit', 'https://www.eafit.edu.co/en/eafit-campus']","['e86ef54a040a0f2525d90156e1b738ab_000', '110c59f66a72dc07755e169942fb4128_016', '0c7e8a0b2a405c3249d4f65ae69d48c1_007', '891a65de2ce4df923be393ec774d1fb1_009', '56988fe4b4399c76dbfa5e80fae2e9fe_008']","[1] Mapa del Campus EAFIT (https://www.eafit.edu.co/campus-eafit/mapa)
+Mapa del Campus EAFIT
+
+- Campus EAFIT
+- Mapa del Campus EAFIT
+###### **¡Bienvenido al mapa interactivo del campus de EAFIT!**
+Esta herramienta te permitirá ubicar fácilmente los diferentes espacios de la universidad, desde edificios académicos y auditorios hasta zonas verdes y parqueaderos. Con una navegación intuitiva, podrás encontrar direcciones precisas y planear mejor tu recorrido dentro del campus.
+###### **¿Cómo usar el mapa?**
+**Explora el campus:** desplázate por el mapa para visualizar todas las áreas de la universidad. Puedes hacer zoom para ver más detalles.
+**Filtra por categorías:** si necesitas ubicar un tipo de espacio en particular (por ejemplo, espacios deportivos, edificios, parqueaderos), puedes filtrar las opciones para una búsqueda más eficiente.
+**Consulta información adicional:** al hacer clic en un punto del mapa, obtendrás detalles sobre su ubicación, función y accesos.
+¡Explora el campus y encuentra lo que necesitas en pocos clics!
+
+[2] Park University (https://www.eafit.edu.co/en/universidad-parque)
+Park University > Universidad Parque > Conoce más sobre el campus de EAFIT
+
+Conoce el campus
+- Our undergraduates
+- Our postgraduates programs
+- Other programs
+- Transform with us
+- Work with us
+- Register a PQRSF
+- Visitor center
+- Transparency line
+- Legal Status
+- Regulations and statutes
+- Gender, diversity and inclusion
+- Legal notices and certificates
+- Update your information
+- Data protection policy
+- Terms of use
+Map of the website
+Institutional Accreditation until 2026.
+Supervised by Ministry of Education.
+Our campuses
+EAFIT Medellin
+Service line: (57) 604 2619500
+EAFIT Bogota
+Service line: (57) 601 6114618
+Km 3.5 vía Don Diego – Rionegro
+
+[3] Campus EAFIT (https://www.eafit.edu.co/campus-eafit)
+Campus EAFIT > Mapa del campus EAFIT
+
+Recorre el campus de EAFIT
+
+[4] Recorre la historia del planeta Tierra en un paseo por EAFIT (https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/descubre-y-crea/edicion-180/recorre-la-historia-del-planeta-tierra-en-un-paseo-por-eafit)
+Recorre la historia del planeta Tierra en un paseo por EAFIT
+
+###### Itinerario de Al Campus Georuta
+Itinerario de ""Al Campus Georuta"" en el mapa del campus principal de la Universidad EAFIT, ubicado en el barrio La Aguacatala, Comuna 20 El Poblado, al sur de Medellín. Imagen: elaboración propia a partir de Marín-Cerón, M.I.; González-Tejada, C. (2022)\[3\].
+
+[5] Campus EAFIT (https://www.eafit.edu.co/en/eafit-campus)
+Campus EAFIT > Mapa del campus EAFIT
+
+Recorre el campus de EAFIT","['mapa campus', 'ubicación campus', 'plano universidad']",,con_respuesta,['https://www.eafit.edu.co/campus-eafit/mapa'],1,,1,1,2.431177,51b53e06-4911-4f36-8c44-6ea2cd3bce51,01a204d6-7a1b-76b7-974a-8066aec8140e
+¿EAFIT da algún reconocimiento por participar en actividades extracurriculares o de liderazgo?,"Sí, la Universidad EAFIT concede el **Reconocimiento a la Excelencia en Actividades Estudiantiles Extracurriculares**. Este reconocimiento se otorga en la ceremonia de grado del final de período académico a graduandos de pregrado que se hayan destacado en actividades estudiantiles extracurriculares [3][4].
+
+La convocatoria estará habilitada entre el **27 de octubre y el 18 de noviembre de 2026** [4].","[{'n': 3, 'titulo': 'Reconocimiento a la Excelencia Extracurricular', 'url': 'https://www.eafit.edu.co/en/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares', 'categoria': 'becas_y_tramites'}, {'n': 4, 'titulo': 'Reconocimiento a la Excelencia Extracurricular', 'url': 'https://www.eafit.edu.co/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/universidad-ninos', 'https://www.eafit.edu.co/bienestar-universitario/desarrollo-estudiantil/ruta-del-becado', 'https://www.eafit.edu.co/en/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares', 'https://www.eafit.edu.co/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares']","['c35c3808fa9dc2816033b88bbdb91862_008', 'ea98300ce3f21d673482668ec72ed3a6_012', 'b9b29554ce3abe2f17f756ac048555d7_002', '1714a3145e5eed457fe68b3dcdb42175_001', '1714a3145e5eed457fe68b3dcdb42175_000']","[1] Universidad de los Niños EAFIT (https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/universidad-ninos)
+Universidad de los Niños EAFIT > 2.600 > Experiencias y oferta para colegios
+
+Conoce Diseño curricular
+Extracurriculares
+Diseño e implementación de experiencias de aprendizaje con metodologías activas para jornada extracurriculares de las instituciones.
+Conoce Extracurriculares
+
+[2] Ruta del becado (https://www.eafit.edu.co/bienestar-universitario/desarrollo-estudiantil/ruta-del-becado)
+Ruta del becado > Ruta del becado EAFIT > Actividades extracurriculares, servicios y apoyos
+
+Puedes disfrutar de todas las actividades extracurriculares, servicios y apoyos que ofrecen las diferentes áreas de la universidad.
+Conócelas aquí.
+
+[3] Reconocimiento a la Excelencia Extracurricular (https://www.eafit.edu.co/en/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares)
+Reconocimiento a la Excelencia Extracurricular > Recognition for Outstanding Performance in Extracurricular Student Activities > Reconocimiento a la Excelencia en Actividades Estudiantiles Extracurriculares
+
+- ¿Cuándo se abre la convocatoria?
+- ¿En qué consiste?
+- ¿Quiénes pueden aplicar?
+- Información adicional
+¿Cuándo se abre la convocatoria?
+¿Cuándo se abre la convocatoria?
+Fechas pendientes por confirmar.
+¿En qué consiste?
+¿En qué consiste?
+La Universidad EAFIT concede el Reconocimiento, en la ceremonia de grado de final de período académico, a aquel graduando de pregrado quien, durante su permanencia en la Universidad EAFIT, se hubiera destacado en las actividades estudiantiles extracurriculares, como medio para alcanzar y mantener la formación integral como estudiante, a través del desarrollo de valores y habilidades que lo impulsen a desempeñar un papel de liderazgo firme y positivo en los ámbitos laboral, familiar y social. 
+¿Quiénes pueden aplicar?
+¿Quiénes pueden aplicar?
+
+[4] Reconocimiento a la Excelencia Extracurricular (https://www.eafit.edu.co/becas-y-financiacion/reconocimiento-la-excelencia-en-actividades-estudiantiles-extracurriculares)
+Reconocimiento a la Excelencia Extracurricular > Reconocimiento a la Excelencia en Actividades Estudiantiles Extracurriculares
+
+- ¿Cuándo se abre la convocatoria?
+- ¿En qué consiste?
+- ¿Quiénes pueden aplicar?
+- Información adicional
+¿Cuándo se abre la convocatoria?
+¿Cuándo se abre la convocatoria?
+La convocatoria estará habilitada entre el 27 de octubre y el 18 de noviembre de 2026.
+¿En qué consiste?
+¿En qué consiste?
+La Universidad EAFIT concede el Reconocimiento, en la ceremonia de grado de final de período académico, a aquel graduando de pregrado quien, durante su permanencia en la Universidad EAFIT, se hubiera destacado en las actividades estudiantiles extracurriculares, como medio para alcanzar y mantener la formación integral como estudiante, a través del desarrollo de valores y habilidades que lo impulsen a desempeñar un papel de liderazgo firme y positivo en los ámbitos laboral, familiar y social. 
+¿Quiénes pueden aplicar?
+¿Quiénes pueden aplicar?
+
+Reconocimiento a la Excelencia Extracurricular > Reconocimiento a la Excelencia en Actividades Estudiantiles Extracurriculares > Beca
+
+**La convocatoria estará habilitada entre el 27 de octubre y el 18 de noviembre de 2026.**
+- Becas y Financiación
+- Reconocimiento A La Excelencia En Actividades Estudiantiles Extracurriculares","['programas extracurriculares eafit', 'reconocimiento liderazgo eafit', 'beneficios actividades extracurriculares']",,con_respuesta,['https://www.eafit.edu.co/becas-y-financiacion/reconocimiento-liderazgo-actividades-estudiantiles-extracurriculares'],0,,1,1,0.067889,8cc88d5b-80f4-4179-96b3-25a6fbc7e101,01a204d6-839a-70da-91a2-c5ff799b82f0
+¿Cuándo es el ensayo de la ceremonia de grado?,No encontré la fecha del ensayo de la ceremonia de grado en la información de EAFIT. Te sugiero consultar directamente en https://www.eafit.edu.co o en la Oficina de Admisiones y Registro para obtener los detalles del ensayo y la ceremonia de grado.,[],"['https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado-0', 'https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado', 'https://www.eafit.edu.co/ceremonias-de-graduacion']","['e8cc419334758f2adb12762c6034c3c8_004', '47d79c5c8095ed6b24c7d750cc4bb905_004', 'e8cc419334758f2adb12762c6034c3c8_002', '47d79c5c8095ed6b24c7d750cc4bb905_002', '8d01e31b91e17e7c221b86e9ac7e21fc_013']","[1] Ensayo ceremonia de grado (https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado-0)
+Ensayo ceremonia de grado > Dirigido a
+
+Estudiantes aptos para grado
+
+Ensayo ceremonia de grado > Categoria de la actividad
+
+Grados
+
+[2] Ensayo ceremonia de grado (https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado)
+Ensayo ceremonia de grado > Dirigido a
+
+Estudiantes aptos para grado
+
+Ensayo ceremonia de grado > Categoria de la actividad
+
+Grados
+
+[3] Ceremonias de graduación (https://www.eafit.edu.co/ceremonias-de-graduacion)
+Ceremonias de graduación > EAFIT Cali posgrado > Preguntas frecuentes sobre grados
+
+- ¿Me pueden enviar el diploma a mi casa?
+¿Cuál es la diferencia entre acto de grado y ceremonia de grado?
+**Acto de grado:** es la expedición de manera oficial, por parte de las autoridades académicas de la Universidad, del título académico del programa de pregrado o posgrado cursado a los estudiantes que cumplieron con los requisitos académicos y con los procedimientos administrativos requeridos para tal fin.
+**Ceremonia de grado:** es el evento en el que la Universidad le confiere el diploma a los graduandos, con el fin de celebrar de forma pública la entrega a la sociedad de una nueva cohorte de eafitenses.
+¿Es obligatorio asistir a la ceremonia?
+No. La ceremonia es un evento protocolario y voluntario.
+El acto de grado se realiza siempre que cumplas los requisitos académicos y administrativos.
+¿Cómo indico que no asistiré a la ceremonia o cómo autorizo a alguien para recibir mi diploma en la ceremonia?","['ceremonia de grado', 'fecha ceremonia grado', 'ensayo ceremonia grado']",,con_respuesta,"['https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado', 'https://www.eafit.edu.co/calendario-academico/ensayo-ceremonia-de-grado-medellin-2']",1,,0,1,2.33663,913ba873-e846-440b-9c5f-91b1e9bcb424,01a204d6-83de-78cd-b0dc-2fe8e04c6011
+¿EAFIT tiene una librería donde pueda comprar libros?,"Sí, EAFIT tiene una librería llamada Librería Acentos donde puedes comprar libros. Ofrece libros de Editorial EAFIT y de editoriales nacionales e internacionales, incluyendo literatura, poesía, ciencias humanas, ciencias administrativas, bienestar, arte, infantil y juvenil, entre otros[1]. 
+
+Los estudiantes activos de pregrado y posgrado, graduados, empleados, jubilados, estudiantes de Idiomas EAFIT y cursos o diplomados tienen beneficios especiales, como un descuento del 20% en libros de editorial EAFIT y entre 10% y 15% en la mayoría de los libros disponibles en la librería[1].","[{'n': 1, 'titulo': 'Librería Acentos', 'url': 'https://www.eafit.edu.co/servicios/acentos/libreria-acentos', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/servicios/acentos/libreria-acentos', 'https://www.eafit.edu.co/noticias/eafit-es-noticia-lo-que-esta-pasando/asi-sera-la-presencia-de-eafit-en-la-fiesta-del-libro', 'https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/campanas-biblioteca', 'https://www.eafit.edu.co/noticias/nuestra-comunidad-de-talento/en-el-dia-internacional-del-libro-leer-sin-limites-y-con']","['bb7055d15ecaad7283541d7d73f5f4aa_003', 'bb7055d15ecaad7283541d7d73f5f4aa_002', 'd85c9cfd878b3bfbd418b51669674ea4_012', 'beb13cfae172cbcbf9e56621f7710db0_005', '037d2b49685024c90390a8216f5a2dfc_007']","[1] Librería Acentos (https://www.eafit.edu.co/servicios/acentos/libreria-acentos)
+Librería Acentos > Descubre nuestra librería
+
+**La comunidad eafitense cuenta con beneficios especiales en Librería Acentos:**
+20% de descuento en libros de editorial EAFIT
+Entre 10% y 15% de descuento en la mayoría de los libros disponibles en librería. **\***
+**\*** Aplica para estudiantes activos de pregrado y posgrado, graduados, empleados, jubilados, estudiantes de Idiomas EAFIT y cursos o diplomados.
+##### Novedades y recomendados
+Descubre una selección de novedades editoriales, libros recomendados y títulos destacados que hacen parte de la curaduría de Acentos y de las conversaciones que se mueven alrededor del libro y la lectura.
+
+Librería Acentos > Descubre nuestra librería
+
+Lo que encuentras en Acentos:
+Lo que encuentras en Acentos:
+Libros de Editorial EAFIT y de editoriales nacionales e internacionales.
+Literatura, poesía, ciencias humanas, ciencias administrativas, bienestar, arte, infantil y juvenil, entre otros.
+Novedades editoriales y selecciones recomendadas.
+Actividades culturales, encuentros con autores y ferias.
+Solicitud de títulos nacionales e importados.
+Tarjetas de regalo.
+Kindles y dispositivos de lectura electrónica.
+Souvenirs alrededor del libro: tote bags, separadores, guardalibros y artículos de lectura.
+La Tilde
+La Tilde
+La Tilde es un espacio para el encuentro y la conversación alrededor del libro, donde se realizan presentaciones editoriales, conversaciones con autores y distintas actividades culturales.
+Beneficios para la comunidad EAFIT
+Beneficios para la comunidad EAFIT
+**La comunidad eafitense cuenta con beneficios especiales en Librería Acentos:**
+20% de descuento en libros de editorial EAFIT
+
+[2] Así será la presencia de EAFIT en la Fiesta del Libro y la Cultura 2025 (https://www.eafit.edu.co/noticias/eafit-es-noticia-lo-que-esta-pasando/asi-sera-la-presencia-de-eafit-en-la-fiesta-del-libro)
+Así será la presencia de EAFIT en la Fiesta del Libro y la Cultura 2025
+
+Convoca: Escuela de Artes y humanidades
+**Lugar:** Salón de nuevas lecturas
+**Hora:** 6:00 p.m.
+###### Novedades y descuentos en la Librería Acentos
+La participación de la Universidad como EAFIT también se da a través de la Librería _Acentos_, que estará ubicada en el stand L9 de la Villa de Libros nuevos. “En el estand tendremos material para todos los gustos. También las novedades que se han lanzado a lo largo del año, y no podrán faltar los más vendidos como los de Fernando González y Gonzalo Arango. También las novedades de las grandes editoriales como _Penguin Random House_ y Planeta”, comenta Deisy Natalia Hernández Gómez, coordinadora de la librería Acentos. Como es de esperarse habrá descuentos para el público general y afiliados a las Cajas de Compensación familiar Comfama y Comfenalco. Si se trata de público eafitense habrá descuento diferencial.
+Enero 23, 2026
+
+[3] Campañas Biblioteca (https://www.eafit.edu.co/centro-cultural-biblioteca-luis-echavarria-villegas/campanas-biblioteca)
+Campañas Biblioteca > 2023 - Venga le cuento
+
+**Servicios de la Biblioteca:** “En la Biblioteca encuentras la respuesta”
+#### Campaña eres lo que lees, lo que sabes, lo que llevas en la cabeza
+El escritor y divulgador científico Antonio Vélez (que también lleva el Consultorio de Redacción de la Biblioteca) propone algunos problemas de pensamiento lógico, matemático o espacial. Los planteamientos están regados por el campus y los estudiantes de EAFIT pueden llevar las soluciones o propuestas de solución a la Biblioteca.
+Entre quienes resuelvan correctamente cada uno de los problemas, se rifarán 7 premios consistentes en bonos de libros que podrán redimirse en la Librería Acentos.
+Son siete acertijos ubicados en diferentes partes del campus para buscar y resolver. Marca tu respuesta con el número del acertijo que elegiste, deposítalo en el buzón ubicado en la Biblioteca y prepárate para ganar uno de los siete bonos de compra por $80.000 de nuestra Librería Acentos.
+¡Pon a prueba eso que tienes en la cabeza!
+
+[4] Book Day: reading without limits at EAFIT (https://www.eafit.edu.co/noticias/nuestra-comunidad-de-talento/en-el-dia-internacional-del-libro-leer-sin-limites-y-con)
+Book Day: reading without limits at EAFIT > On International Book Day, read without limits and with all your senses.
+
+###### Library for everyone
+Since 2015, the EAFIT Library has intensified its efforts to provide accessible information resources and services for people with disabilities. This aligns with its mission to democratize knowledge, bringing science and culture closer to students, faculty, and the general public.
+In this regard, the University has bibliographic databases containing collections of literary, academic, and scientific texts in audio formats, such as Libby, Jove, Naxos, Project Gutenberg, O'Reilly, Digitalia, and Legis. Of a total of 153,000 ebooks, approximately 138,000 are available for audio, representing 90% of the collection.",[],,con_respuesta,['https://www.eafit.edu.co/servicios/acentos/libreria-acentos'],1,,1,1,2.016645,c0613b24-92ce-4056-9114-9ef03a1ad5f2,01a204d6-8cff-70ec-b653-f49e87600bfc
+¿Puedo financiar la matrícula con un crédito de Sufi a corto plazo?,"Sí, puedes financiar la matrícula con un crédito de Sufi a corto plazo. Este crédito te permite financiar programas universitarios de pregrado y posgrado, incluyendo la matrícula[1][2][3].
+
+El crédito ofrece plazos de pago de 6, 12, 24 y 36 meses, con un capital que ofrece desde 700 mil pesos hasta 25 S.M.M.L.V[1][2]. El desembolsó se realiza en línea a la cuenta de la Universidad EAFIT[1][2].","[{'n': 1, 'titulo': 'Crédito educativo Sufi a corto plazo y libre educativo', 'url': 'https://www.eafit.edu.co/becas-y-financiacion/credito-educativo-sufi-corto-plazo', 'categoria': 'becas_y_tramites'}, {'n': 2, 'titulo': 'Sufi short-term student loans', 'url': 'https://www.eafit.edu.co/en/becas-y-financiacion/credito-educativo-sufi-corto-plazo', 'categoria': 'becas_y_tramites'}, {'n': 3, 'titulo': 'Becas y financiación', 'url': 'https://www.eafit.edu.co/becas-y-financiacion', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/becas-y-financiacion/credito-educativo-sufi-corto-plazo', 'https://www.eafit.edu.co/en/becas-y-financiacion/credito-educativo-sufi-corto-plazo', 'https://www.eafit.edu.co/becas-y-financiacion', 'https://www.eafit.edu.co/becas-y-financiacion/matriculas-de-honor']","['876295f8b6c93ceb021bc8bd94f9c1ff_000', '65861b590195da3fc82c2ed8413573e4_001', '9dcd46639c0d39d3ddb22bee3c4ebca8_003', '876295f8b6c93ceb021bc8bd94f9c1ff_001', '397643ce686edc6ad5ca1817bc254f57_000']","[1] Crédito educativo Sufi a corto plazo y libre educativo (https://www.eafit.edu.co/becas-y-financiacion/credito-educativo-sufi-corto-plazo)
+Crédito educativo Sufi a corto plazo y libre educativo > Financiación
+
+Sufi te presta para que estudies lo que te apasiona
+- Becas y Financiación
+- Crédito Educativo Sufi A Corto Plazo y Libre Educativo
+Este crédito\* te permitirá financiar programas universitarios de pregrado y posgrado, además de cursos de Educación Continua o idiomas, a través de desembolsos para cada uno de los programas académicos que desees.
+###### Información general del crédito:
+Plazo de pago: de 6, 12, 24 y 36 meses.
+Capital que ofrece: desde 700 mil pesos hasta 25 S.M.M.L.V. (Salarios Mínimos Mensuales Legales Vigentes).
+El Banco determinará al momento de la aprobación, si es necesario que tu crédito esté respaldado por una fianza a favor del Banco otorgada por un fondo de garantías. \*
+Renovación sujeta a políticas de crédito de la Entidad.
+Respuesta en minutos y sin documentos \*sujeta a políticas de crédito de la Entidad.
+Desembolsó en línea a la cuenta de la Universidad EAFIT \*En algunos casos podrá requerirse estudio de crédito adicional.
+
+Crédito educativo Sufi a corto plazo y libre educativo > Financiación
+
+Desembolsó en línea a la cuenta de la Universidad EAFIT \*En algunos casos podrá requerirse estudio de crédito adicional.
+Vigencia créditos aprobados: hasta 15 días calendario para aceptar la oferta y después de aceptada la oferta hasta 30 días calendario para desembolsar.
+
+[2] Sufi short-term student loans (https://www.eafit.edu.co/en/becas-y-financiacion/credito-educativo-sufi-corto-plazo)
+Sufi short-term student loans > Financiación
+
+Sufi offers you the opportunity to study and follow your passion.
+- Becas y Financiación
+- Sufi Short-term Student Loans
+Este crédito\* te permitirá financiar programas universitarios de pregrado y posgrado, además de cursos de Educación Continua o idiomas, a través de desembolsos para cada uno de los programas académicos que desees.
+###### Información general del crédito:
+Plazo de pago: de 6, 12, 24 y 36 meses.
+Capital que ofrece: desde 700 mil pesos hasta 25 S.M.M.L.V. (Salarios Mínimos Mensuales Legales Vigentes).
+El Banco determinará al momento de la aprobación, si es necesario que tu crédito esté respaldado por una fianza a favor del Banco otorgada por un fondo de garantías. \*
+Renovación sujeta a políticas de crédito de la Entidad.
+Respuesta en minutos y sin documentos \*sujeta a políticas de crédito de la Entidad.
+Desembolsó en línea a la cuenta de la Universidad EAFIT \*En algunos casos podrá requerirse estudio de crédito adicional.
+
+[3] Becas y financiación (https://www.eafit.edu.co/becas-y-financiacion)
+Becas y financiación > Becas y financiación de pregrados y posgrados > Crédito educativo Sufi a corto plazo y libre educativo
+
+Sufi te presta para que estudies lo que te apasiona
+Conoce más información
+
+[4] Matrícula de Honor (https://www.eafit.edu.co/becas-y-financiacion/matriculas-de-honor)
+Matrícula de Honor > Beca
+
+Exoneración de pagar el valor correspondiente a los créditos que vaya a cursar el estudiante.
+- Becas y Financiación
+- Matrícula de Honor","['credito sufi', 'financiacion matrícula', 'becas y creditos']",,con_respuesta,['https://www.eafit.edu.co/becas-y-financiacion/credito-educativo-sufi-corto-plazo'],1,,1,1,2.66668,d9fa835d-ef3f-4c5a-ad5b-c15033c4962f,01a204d6-94e0-7323-b14e-6445700c6a25
+¿Qué requisito de lengua extranjera exige EAFIT a los estudiantes?,"La Universidad EAFIT exige que los estudiantes de Pregrado, especialmente los de Negocios Internacionales, desarrollen competencias en al menos dos lenguas extranjeras [1]. 
+
+Para los estudiantes de Negocios Internacionales, se requiere:
+1. Un certificado emitido por Idiomas EAFIT que muestre los cursos aprobados y el nivel alcanzado [1]. 
+2. Un diploma de grado de una institución donde se estudie en la lengua extranjera como lengua nativa [1]. 
+
+Además, se realiza una prueba diagnóstica de inglés para medir el nivel de suficiencia en el idioma al ingresar a la universidad [2].","[{'n': 1, 'titulo': 'Política de lenguas extranjeras', 'url': 'https://www.eafit.edu.co/idiomas/politica-lengua-extranjera', 'categoria': 'programas'}, {'n': 2, 'titulo': '¿Por qué estudiar Idiomas en EAFIT?', 'url': 'https://www.eafit.edu.co/idiomas/por-que-estudiar-idiomas-eafit', 'categoria': 'programas'}]","['https://www.eafit.edu.co/idiomas/politica-lengua-extranjera', 'https://www.eafit.edu.co/idiomas/por-que-estudiar-idiomas-eafit', 'https://www.eafit.edu.co/idiomas/testing-center', 'https://www.eafit.edu.co/faq-idiomas']","['b6a918dde56070dd704be0ec586c4a74_000', 'b6a918dde56070dd704be0ec586c4a74_091', '52db230b57c1906cb82ec945630b26fa_010', '08417aac86ce301725f61275c3936234_000', '06f200bd1724ad827cdc3143d8333a57_002']","[1] Política de lenguas extranjeras (https://www.eafit.edu.co/idiomas/politica-lengua-extranjera)
+Política de lenguas extranjeras > Política de Lengua Extranjera
+
+- Política de Lenguas Extranjeras
+A través de la Política de Lengua Extranjera (PLE), la Universidad EAFIT busca fomentar la excelencia académica de sus estudiantes, ofreciéndoles la oportunidad de desarrollar las competencias en diferentes idiomas para que estén en capacidad de enfrentar las demandas del mundo actual. Hoy en día, el aprendizaje de una lengua extranjera, especialmente el inglés, se constituye en una necesidad básica para el avance de las profesiones, la investigación y las comunicaciones internacionales.
+La política de Lengua Extranjera de la Universidad EAFIT es un sistema de control para sus estudiantes de Pregrado con respecto al manejo de un segundo y tercer idioma; este último para estudiantes de Negocios Internacionales.
+###### **Aquí te contamos de una manera rápida y sencilla**
+
+Política de lenguas extranjeras > Política de Lengua Extranjera > Pregrados Negocios Internacionales - Segunda lengua
+
+2\. El certificado emitido por Idiomas EAFIT en el que constan los cursos aprobados y correspondientes al nivel a certificar según la Tabla: Equivalencias de certificaciones y requisitos por nivel. PUNTAJES POR NIVELES. Este certificado es válido por dos años a partir de la fecha de culminación del último curso tomado en Idiomas EAFIT, y por doce (12) meses a partir de la fecha de culminación del último curso tomado en Idiomas EAFIT, para los estudiantes del programa de pregrado de negocios internacionales, o los demás programas.
+3\. El diploma de grado de una institución de educación formal (bachillerato o educación superior) localizada en un país cuyo idioma nativo es el que se certificará como Lengua Extranjera y donde los estudios se realicen en la lengua extranjera. Este diploma debe ser el mismo que se presenta para admisión a los programas de pregrado o posgrado en la Universidad EAFIT.
+
+[2] ¿Por qué estudiar Idiomas en EAFIT? (https://www.eafit.edu.co/idiomas/por-que-estudiar-idiomas-eafit)
+¿Por qué estudiar Idiomas en EAFIT? > Políticas y Protocolos de Idiomas EAFIT > Protocolo de Convivencia
+
+5. El examen de clasificación no es válido como control de bilingüismo.
+**Prueba diagnóstica de inglés para estudiantes nuevos de EAFIT**
+Con el fin de ofrecerte el mejor inicio posible en tus estudios académicos, en Idiomas EAFIT nos hemos unido a tu proceso de inducción con el objetivo de medir de manera aproximada tu nivel de suficiencia en el idioma inglés, al momento de ingresar a tu programa de pregrado.
+El examen de clasificación de Idiomas EAFIT es una prueba en inglés diseñada con el propósito de hacer un diagnóstico de tus conocimientos previos en el idioma, específicamente de vocabulario y estructura. Esta prueba podrá ser tomada en línea, de manera asincrónica y de forma individual.
+La prueba está dividida en tres (3) partes. Para pasar de una parte a otra deberás obtener al menos un ochenta (80%) porciento de aciertos, de lo contrario el examen terminará automáticamente.
+
+[3] Testing Center (https://www.eafit.edu.co/idiomas/testing-center)
+Testing Center
+
+Certifica tu nivel de idioma con exámenes internacionales, reconocidos a nivel académico y profesional.
+- Testing Center
+###### **Exámenes de suficiencia**
+El Testing Center de Idiomas EAFIT es un espacio adecuado para la administración de exámenes y certificaciones nacionales e internacionales en la ciudad. Actualmente contamos con cerca de 12 exámenes en idiomas tales como IELTS, TOEFL, CELPE entre otros. 
+- Inglés
+- Portugués
+- Italiano
+Inglés
+Inglés
+
+[4] FAQ Idiomas (https://www.eafit.edu.co/faq-idiomas)
+FAQ Idiomas
+
+¿Cómo elijo el examen de inglés adecuado?
+Una diferencia importante entre todos los exámenes existentes es la validez de los resultados. Dicha validez está sujeta a las políticas y reglamentos de la institución académica, empresa, embajada, etc. solicitante de la prueba. Todas las instituciones son libres de aceptar el o los exámenes que mejor se adecuen a sus reglamentos internos.
+Por ejemplo, los exámenes **IELTS** y **TOEFL** suelen ser más convenientes para los visados, trabajos o solicitudes de admisión universitaria que tengan como requisito de aceptación la posesión de un determinado nivel de inglés.
+Exámenes como el **TOEIC, APTIS, TRACK TEST** y **Oxford Test of English** son exámenes de inglés cuya novedad es la flexibilidad que aporta al poder evaluar de forma independiente una, dos, tres o todas las competencias del idioma.
+Estos exámenes son altamente aceptados en las universidades de Colombia.","['requisitos idioma extranjero', 'exámenes de inglés eafit', 'política de inglés eafit']",,con_respuesta,['https://www.eafit.edu.co/idiomas/politica-lengua-extranjera'],1,,1,1,2.743855,de6f7d16-c5e1-4169-a35b-c3c7c874ceec,01a204d6-9f4b-7076-9689-45196ff1bf21
+¿Qué es el programa EAFIT a tu alcance?,El programa EAFIT a tu Alcance ofrece alternativas de financiación directa con la Universidad para aspirantes y estudiantes activos de pregrado o posgrado. Facilita el acceso y la permanencia de los estudiantes mediante condiciones financieras más flexibles y cuenta con dos líneas de financiación: corto y largo plazo [2][3][4].,"[{'n': 2, 'titulo': 'EAFIT a tu alcance', 'url': 'https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance', 'categoria': 'becas_y_tramites'}, {'n': 3, 'titulo': 'Alternativas de financiación y pago', 'url': 'https://www.eafit.edu.co/alternativas-de-financiacion-y-pago', 'categoria': 'becas_y_tramites'}, {'n': 4, 'titulo': 'EAFIT at your reach', 'url': 'https://www.eafit.edu.co/en/becas-y-financiacion/eafit-a-tu-alcance', 'categoria': 'becas_y_tramites'}]","['https://www.eafit.edu.co/Preguntas-Frecuentes', 'https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance', 'https://www.eafit.edu.co/alternativas-de-financiacion-y-pago', 'https://www.eafit.edu.co/en/becas-y-financiacion/eafit-a-tu-alcance']","['dbf4204de88eb2849523691822d6de9b_041', '23514cfe86c6c284df865fdf87926e22_018', 'ca191650b6c5bfc84a700e46b6fb08e1_016', '05283b6a0af378deb950c9fe095973f4_016', '05283b6a0af378deb950c9fe095973f4_015']","[1] Preguntas Frecuentes (https://www.eafit.edu.co/Preguntas-Frecuentes)
+Preguntas Frecuentes > Resuelve tus dudas > Pregrado
+
+¿Cuáles son las líneas de financiación de EAFIT a tu alcance?
+EAFIT ofrece opciones de financiación propias a través del programa ""EAFIT a tu Alcance"", así como convenios externos con entidades financieras como el ICETEX. Nuestro objetivo es brindarte flexibilidad y condiciones favorables. Para más información haz Clic aquí.
+¿Qué líneas de crédito ofrece el programa ""EAFIT a tu Alcance""?
+EAFIT a tu Alcance tiene diversas líneas de financiación diseñadas para adaptarse a tus necesidades de pago, permitiéndote financiar un porcentaje de tu matrícula a corto o largo plazo.
+Ingresa aquí
+¿Cómo puedo simular mi crédito con ""EAFIT a tu Alcance"" para calcular las cuotas?
+Puedes utilizar nuestro simulador en línea para estimar el valor aproximado de tus cuotas y el plan de pagos según el tipo y monto de financiación que requieras. Clic aquí
+¿Cuáles son las formas de pago disponibles para la matrícula y las cuotas de financiación?
+
+[2] EAFIT a tu alcance (https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance)
+EAFIT a tu alcance > Directorio de entidades financieras > Preguntas frecuentes EAFIT A TU ALCANCE
+
+- ¿Cuál es la diferencia entre ""Dependiente"" e ""Independiente"" para el responsable de pago o avalista?
+¿Qué es EAFIT a tu alcance?
+Es el programa de alternativas de financiación directa con la Universidad. Cuenta con opciones de crédito para aspirantes y estudiantes activos de pregrado o posgrado. Esta financiación, que facilita el acceso y la permanencia e los estudiantes por medio de condiciones financieras más flexibles, cuenta con dos líneas de financiación: **corto y largo plazo**.
+Para encontrar toda la información de las líneas de financiación puede acceder a EAFIT a tu Alcance.
+¿Cuáles son las líneas de financiación que ofrece EAFIT a tu Alcance?
+Son dos: **corto y largo plazo.**
+**Línea de Financiación Corto Plazo**
+
+[3] Alternativas de financiación y pago (https://www.eafit.edu.co/alternativas-de-financiacion-y-pago)
+Alternativas de financiación y pago > EAFIT a tu Alcance > Generalidades
+
+- ¿Cuáles son los canales de atención habilitados para EAFIT a tu alcance?
+¿Qué es EAFIT a tu alcance?
+Es el programa de alternativas de financiación directa con la Universidad de carácter reembolsable. Cuenta con opciones de crédito para aspirantes y estudiantes activos de Pregrado o Posgrado. Esta financiación, que facilita el acceso y la permanencia por medio de condiciones financieras más flexibles, cuenta con dos líneas: Corto y Largo Plazo.
+Para encontrar toda la información de las líneas de financiación puede acceder al sitio web de financiación EAFIT a tu Alcance.
+¿A quién va dirigido cada línea de crédito?
+La línea de financiación a **Corto plazo** con EAFIT está dirigida a estudiantes nuevos y activos tanto de Pregrado como de Posgrado, de cualquier nivel socioeconómico.
+La línea de financiación a **Largo plazo** con EAFIT está dirigida a estudiantes nuevos de primer semestre de los programas de Pregrado y Posgrado.
+
+[4] EAFIT at your reach (https://www.eafit.edu.co/en/becas-y-financiacion/eafit-a-tu-alcance)
+EAFIT at your reach > Generalidades
+
+- ¿Cuáles son los canales de atención habilitados para EAFIT a tu alcance?
+¿Qué es EAFIT a tu alcance?
+Es el programa de alternativas de financiación directa con la Universidad de carácter reembolsable. Cuenta con opciones de crédito para aspirantes y estudiantes activos de Pregrado o Posgrado. Esta financiación, que facilita el acceso y la permanencia por medio de condiciones financieras más flexibles, cuenta con dos líneas: Corto y Largo Plazo.
+Para encontrar toda la información de las líneas de financiación puede acceder al sitio web de financiación EAFIT a tu Alcance.
+¿A quién va dirigido cada línea de crédito?
+La línea de financiación a **corto plazo** con EAFIT está dirigida a estudiante nuevos y activos tanto de pregrado como de posgrado, de cualquier nivel socioeconómico.
+La línea de financiación a **largo plazo** con EAFIT está dirigida a estudiantes nuevos de pregrado y posgrado.
+
+EAFIT at your reach > Generalidades
+
+- ¿Qué es EAFIT a tu alcance?
+- ¿A quién va dirigido cada línea de crédito?
+- ¿Cuáles son las líneas de financiación que me ofrece EAFIT a tu Alcance?
+- ¿Existe un promedio mínimo del semestre para acceder al crédito?
+- ¿Cuáles son los requisitos para acceder a la financiación? 
+- ¿Puede un menor de edad solicitar un crédito?
+- ¿Dónde puedo consultar la liquidación de la matricula?
+- ¿Se puede solicitar un crédito aún sin tener ingresos estables?
+- Si tengo una beca con la Universidad u otra entidad, ¿puedo acceder a EAFIT a tu Alcance?
+- ¿Dónde puedo validar cómo me quedan las cuotas mensuales a pagar de la financiación?
+- ¿Cuáles son los canales de atención habilitados para EAFIT a tu alcance?
+¿Qué es EAFIT a tu alcance?","['programa a tu alcance', 'detalles programa a tu alcance', 'información a tu alcance']",,con_respuesta,['https://www.eafit.edu.co/becas-y-financiacion/eafit-a-tu-alcance'],1,,1,1,2.496014,f60ad68c-2213-470f-b66c-8e2b67279136,01a204d6-aa03-73e1-8387-f92efd807bbe
+¿Cuándo son las vacaciones colectivas en EAFIT?,"Las vacaciones colectivas en la Universidad EAFIT comienzan el **lunes, 15 de diciembre de 2025, a las 00:00**[1].
+
+Si necesitas más detalles, visita https://www.eafit.edu.co.","[{'n': 1, 'titulo': 'Vacaciones colectivas', 'url': 'https://www.eafit.edu.co/calendario-academico/vacaciones-colectivas', 'categoria': 'calendario'}]","['https://www.eafit.edu.co/calendario-academico/vacaciones-colectivas', 'https://www.eafit.edu.co/institucional/comunicados-institucionales/comunicados-2026/modificacion-calendario-academico-reprogramacion-asambleas-estudiantiles-profesorales', 'https://www.eafit.edu.co/inscribe-tu-hijo-en-unas-vacaciones-llenas-de-ciencia-diversion-y-aprendizaje', 'https://www.eafit.edu.co/calendario-eventos/diversion-deporte-y-nuevas-experiencias-para-tus-hijos']","['34e1a0f4d4d04e50ef36dc05afee94d0_000', 'a9ddf44ef07c4d28ba23b2ced8f9e71a_002', '103d1c308b5bd2d05f005daafd8fec9e_003', 'd745c814b3a1a20876e8f1a45275ef5b_000', '34e1a0f4d4d04e50ef36dc05afee94d0_003']","[1] Vacaciones colectivas (https://www.eafit.edu.co/calendario-academico/vacaciones-colectivas)
+Vacaciones colectivas
+
+- Calendario Académico
+- Vacaciones Colectivas
+
+Vacaciones colectivas > Fecha y hora de inicio
+
+Lun, 15/12/2025 - 00:00
+
+[2] Modificación del calendario académico: reprogramación de las asambleas estudiantiles y profesorales (https://www.eafit.edu.co/institucional/comunicados-institucionales/comunicados-2026/modificacion-calendario-academico-reprogramacion-asambleas-estudiantiles-profesorales)
+Modificación del calendario académico: reprogramación de las asambleas estudiantiles y profesorales > Modificación del calendario académico:
+
+Atentamente,
+**Consejo Académico**
+**Universidad EAFIT**
+Comunicado n° 14
+Medellín, 3 de marzo de 2026
+
+[3] ¡Inscribe a tu hijo en unas vacaciones llenas de ciencia, diversión y aprendizaje! (https://www.eafit.edu.co/inscribe-tu-hijo-en-unas-vacaciones-llenas-de-ciencia-diversion-y-aprendizaje)
+¡Inscribe a tu hijo en unas vacaciones llenas de ciencia, diversión y aprendizaje! > Público objetivo
+
+Comunidad eafitense
+
+[4] Diversión, deporte y nuevas experiencias para tus hijos (https://www.eafit.edu.co/calendario-eventos/diversion-deporte-y-nuevas-experiencias-para-tus-hijos)
+Diversión, deporte y nuevas experiencias para tus hijos
+
+Invitamos a los hijos de empleados de EAFIT, entre los 5 y 12 años, a participar en las vacaciones recreativas EAFIT - INDER, un espacio diseñado para disfrutar, aprender y compartir a través del juego, la actividad física y la convivencia. Una oportunidad para vivir experiencias enriquecedoras durante la temporada de vacaciones, en compañía de otros niños y niñas.
+- Calendario Eventos
+- Diversión, Deporte y Nuevas Experiencias Para Tus Hijos","['vacaciones colectivas', 'calendario académico', 'calendario universitario']",,con_respuesta,"['https://www.eafit.edu.co/calendario-academico/vacaciones-colectivas', 'https://www.eafit.edu.co/calendario-academico/vacaciones-colectivas-0']",1,,1,1,2.509507,f7003b48-db2f-47be-8392-0fb3d6751c6d,01a204d6-b3c4-74b1-b95a-e7a67bef6710
