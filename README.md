@@ -56,3 +56,7 @@ python rag/publicar.py v3                                           # sube a s3:
 ## Limitaciones conocidas
 
 - Las tarifas y la financiación están en documentos embebidos (Issuu y PDF) que no se extrajeron.
+
+## Demo
+
+https://youtu.be/gfpiNKIYFkE
